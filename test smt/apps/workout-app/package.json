@@ -1,0 +1,23 @@
+{
+  "name": "@workout/workout-app",
+  "private": true,
+  "main": "index.ts",
+  "scripts": {
+    "dev": "expo start --clear",
+    "build": "cross-env CI=1 EXPO_NO_INTERACTIVE=1 expo export --platform android --output-dir dist",
+    "lint": "tsc --noEmit",
+    "check-types": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "^5.0.4",
+    "@workout/app-prototype": "file:../../packages/app-prototype",
+    "@workout/shared-components": "file:../../packages/shared-components",
+    "expo": "~54.0.10",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.10",
+    "typescript": "^5.8.3"
+  }
+}

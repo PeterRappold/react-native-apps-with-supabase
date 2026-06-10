@@ -1,0 +1,13 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "@workout/app-prototype": ["../../packages/app-prototype/src"],
+      "@workout/shared-components": ["../../packages/shared-components/src"],
+      "@workout/shared-types": ["../../packages/shared-types/src"],
+      "@workout/shared-utils": ["../../packages/shared-utils/src"]
+    }
+  }
+}

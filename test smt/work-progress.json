@@ -1,0 +1,673 @@
+{
+  "status": "in-progress",
+  "lastRun": "2026-06-10T14:03:53.822Z",
+  "components": {
+    "atoms": [
+      {
+        "id": "el-029",
+        "status": "pending"
+      },
+      {
+        "id": "el-030",
+        "status": "pending"
+      },
+      {
+        "id": "el-033",
+        "status": "pending"
+      },
+      {
+        "id": "el-041",
+        "status": "pending"
+      },
+      {
+        "id": "el-042",
+        "status": "pending"
+      },
+      {
+        "id": "el-044",
+        "status": "pending"
+      },
+      {
+        "id": "el-045",
+        "status": "pending"
+      },
+      {
+        "id": "el-054",
+        "status": "pending"
+      },
+      {
+        "id": "el-055",
+        "status": "pending"
+      },
+      {
+        "id": "el-058",
+        "status": "pending"
+      },
+      {
+        "id": "el-061",
+        "status": "pending"
+      },
+      {
+        "id": "el-063",
+        "status": "pending"
+      },
+      {
+        "id": "el-065",
+        "status": "pending"
+      },
+      {
+        "id": "el-067",
+        "status": "pending"
+      },
+      {
+        "id": "el-069",
+        "status": "pending"
+      },
+      {
+        "id": "el-079",
+        "status": "pending"
+      },
+      {
+        "id": "el-080",
+        "status": "pending"
+      },
+      {
+        "id": "el-086",
+        "status": "pending"
+      },
+      {
+        "id": "el-089",
+        "status": "pending"
+      },
+      {
+        "id": "el-090",
+        "status": "pending"
+      },
+      {
+        "id": "el-092",
+        "status": "pending"
+      },
+      {
+        "id": "el-093",
+        "status": "pending"
+      },
+      {
+        "id": "el-114",
+        "status": "pending"
+      },
+      {
+        "id": "el-115",
+        "status": "pending"
+      },
+      {
+        "id": "el-136",
+        "status": "pending"
+      },
+      {
+        "id": "el-137",
+        "status": "pending"
+      },
+      {
+        "id": "el-138",
+        "status": "pending"
+      },
+      {
+        "id": "el-141",
+        "status": "pending"
+      },
+      {
+        "id": "el-142",
+        "status": "pending"
+      },
+      {
+        "id": "el-145",
+        "status": "pending"
+      },
+      {
+        "id": "el-146",
+        "status": "pending"
+      },
+      {
+        "id": "el-147",
+        "status": "pending"
+      },
+      {
+        "id": "el-149",
+        "status": "pending"
+      },
+      {
+        "id": "el-150",
+        "status": "pending"
+      },
+      {
+        "id": "el-159",
+        "status": "pending"
+      },
+      {
+        "id": "el-160",
+        "status": "pending"
+      },
+      {
+        "id": "el-161",
+        "status": "pending"
+      }
+    ],
+    "molecules": [
+      {
+        "id": "el-001",
+        "status": "pending"
+      },
+      {
+        "id": "el-002",
+        "status": "pending"
+      },
+      {
+        "id": "el-003",
+        "status": "pending"
+      },
+      {
+        "id": "el-004",
+        "status": "pending"
+      },
+      {
+        "id": "el-005",
+        "status": "pending"
+      },
+      {
+        "id": "el-006",
+        "status": "pending"
+      },
+      {
+        "id": "el-007",
+        "status": "pending"
+      },
+      {
+        "id": "el-008",
+        "status": "pending"
+      },
+      {
+        "id": "el-009",
+        "status": "pending"
+      },
+      {
+        "id": "el-010",
+        "status": "pending"
+      },
+      {
+        "id": "el-011",
+        "status": "pending"
+      },
+      {
+        "id": "el-012",
+        "status": "pending"
+      },
+      {
+        "id": "el-013",
+        "status": "pending"
+      },
+      {
+        "id": "el-014",
+        "status": "pending"
+      },
+      {
+        "id": "el-015",
+        "status": "pending"
+      },
+      {
+        "id": "el-016",
+        "status": "pending"
+      },
+      {
+        "id": "el-017",
+        "status": "pending"
+      },
+      {
+        "id": "el-018",
+        "status": "pending"
+      },
+      {
+        "id": "el-019",
+        "status": "pending"
+      },
+      {
+        "id": "el-020",
+        "status": "pending"
+      },
+      {
+        "id": "el-021",
+        "status": "pending"
+      },
+      {
+        "id": "el-022",
+        "status": "pending"
+      },
+      {
+        "id": "el-023",
+        "status": "pending"
+      },
+      {
+        "id": "el-024",
+        "status": "pending"
+      },
+      {
+        "id": "el-025",
+        "status": "pending"
+      },
+      {
+        "id": "el-026",
+        "status": "pending"
+      },
+      {
+        "id": "el-027",
+        "status": "pending"
+      },
+      {
+        "id": "el-028",
+        "status": "pending"
+      },
+      {
+        "id": "el-031",
+        "status": "pending"
+      },
+      {
+        "id": "el-032",
+        "status": "pending"
+      },
+      {
+        "id": "el-034",
+        "status": "pending"
+      },
+      {
+        "id": "el-035",
+        "status": "pending"
+      },
+      {
+        "id": "el-036",
+        "status": "pending"
+      },
+      {
+        "id": "el-037",
+        "status": "pending"
+      },
+      {
+        "id": "el-038",
+        "status": "pending"
+      },
+      {
+        "id": "el-039",
+        "status": "pending"
+      },
+      {
+        "id": "el-040",
+        "status": "pending"
+      },
+      {
+        "id": "el-043",
+        "status": "pending"
+      },
+      {
+        "id": "el-046",
+        "status": "pending"
+      },
+      {
+        "id": "el-047",
+        "status": "pending"
+      },
+      {
+        "id": "el-048",
+        "status": "pending"
+      },
+      {
+        "id": "el-049",
+        "status": "pending"
+      },
+      {
+        "id": "el-050",
+        "status": "pending"
+      },
+      {
+        "id": "el-051",
+        "status": "pending"
+      },
+      {
+        "id": "el-052",
+        "status": "pending"
+      },
+      {
+        "id": "el-053",
+        "status": "pending"
+      },
+      {
+        "id": "el-056",
+        "status": "pending"
+      },
+      {
+        "id": "el-057",
+        "status": "pending"
+      },
+      {
+        "id": "el-059",
+        "status": "pending"
+      },
+      {
+        "id": "el-060",
+        "status": "pending"
+      },
+      {
+        "id": "el-062",
+        "status": "pending"
+      },
+      {
+        "id": "el-064",
+        "status": "pending"
+      },
+      {
+        "id": "el-066",
+        "status": "pending"
+      },
+      {
+        "id": "el-068",
+        "status": "pending"
+      },
+      {
+        "id": "el-070",
+        "status": "pending"
+      },
+      {
+        "id": "el-071",
+        "status": "pending"
+      },
+      {
+        "id": "el-072",
+        "status": "pending"
+      },
+      {
+        "id": "el-073",
+        "status": "pending"
+      },
+      {
+        "id": "el-074",
+        "status": "pending"
+      },
+      {
+        "id": "el-075",
+        "status": "pending"
+      },
+      {
+        "id": "el-076",
+        "status": "pending"
+      },
+      {
+        "id": "el-077",
+        "status": "pending"
+      },
+      {
+        "id": "el-078",
+        "status": "pending"
+      },
+      {
+        "id": "el-081",
+        "status": "pending"
+      },
+      {
+        "id": "el-082",
+        "status": "pending"
+      },
+      {
+        "id": "el-083",
+        "status": "pending"
+      },
+      {
+        "id": "el-084",
+        "status": "pending"
+      },
+      {
+        "id": "el-085",
+        "status": "pending"
+      },
+      {
+        "id": "el-087",
+        "status": "pending"
+      },
+      {
+        "id": "el-088",
+        "status": "pending"
+      },
+      {
+        "id": "el-091",
+        "status": "pending"
+      },
+      {
+        "id": "el-094",
+        "status": "pending"
+      },
+      {
+        "id": "el-095",
+        "status": "pending"
+      },
+      {
+        "id": "el-096",
+        "status": "pending"
+      },
+      {
+        "id": "el-097",
+        "status": "pending"
+      },
+      {
+        "id": "el-098",
+        "status": "pending"
+      },
+      {
+        "id": "el-099",
+        "status": "pending"
+      },
+      {
+        "id": "el-100",
+        "status": "pending"
+      },
+      {
+        "id": "el-101",
+        "status": "pending"
+      },
+      {
+        "id": "el-102",
+        "status": "pending"
+      },
+      {
+        "id": "el-103",
+        "status": "pending"
+      },
+      {
+        "id": "el-104",
+        "status": "pending"
+      },
+      {
+        "id": "el-105",
+        "status": "pending"
+      },
+      {
+        "id": "el-106",
+        "status": "pending"
+      },
+      {
+        "id": "el-107",
+        "status": "pending"
+      },
+      {
+        "id": "el-108",
+        "status": "pending"
+      },
+      {
+        "id": "el-109",
+        "status": "pending"
+      },
+      {
+        "id": "el-110",
+        "status": "pending"
+      },
+      {
+        "id": "el-111",
+        "status": "pending"
+      },
+      {
+        "id": "el-112",
+        "status": "pending"
+      },
+      {
+        "id": "el-113",
+        "status": "pending"
+      },
+      {
+        "id": "el-116",
+        "status": "pending"
+      },
+      {
+        "id": "el-117",
+        "status": "pending"
+      },
+      {
+        "id": "el-118",
+        "status": "pending"
+      },
+      {
+        "id": "el-119",
+        "status": "pending"
+      },
+      {
+        "id": "el-120",
+        "status": "pending"
+      },
+      {
+        "id": "el-121",
+        "status": "pending"
+      },
+      {
+        "id": "el-122",
+        "status": "pending"
+      },
+      {
+        "id": "el-123",
+        "status": "pending"
+      },
+      {
+        "id": "el-124",
+        "status": "pending"
+      },
+      {
+        "id": "el-125",
+        "status": "pending"
+      },
+      {
+        "id": "el-126",
+        "status": "pending"
+      },
+      {
+        "id": "el-127",
+        "status": "pending"
+      },
+      {
+        "id": "el-128",
+        "status": "pending"
+      },
+      {
+        "id": "el-129",
+        "status": "pending"
+      },
+      {
+        "id": "el-130",
+        "status": "pending"
+      },
+      {
+        "id": "el-131",
+        "status": "pending"
+      },
+      {
+        "id": "el-132",
+        "status": "pending"
+      },
+      {
+        "id": "el-133",
+        "status": "pending"
+      },
+      {
+        "id": "el-134",
+        "status": "pending"
+      },
+      {
+        "id": "el-135",
+        "status": "pending"
+      },
+      {
+        "id": "el-139",
+        "status": "pending"
+      },
+      {
+        "id": "el-140",
+        "status": "pending"
+      },
+      {
+        "id": "el-143",
+        "status": "pending"
+      },
+      {
+        "id": "el-144",
+        "status": "pending"
+      },
+      {
+        "id": "el-148",
+        "status": "pending"
+      },
+      {
+        "id": "el-151",
+        "status": "pending"
+      },
+      {
+        "id": "el-152",
+        "status": "pending"
+      },
+      {
+        "id": "el-153",
+        "status": "pending"
+      },
+      {
+        "id": "el-154",
+        "status": "pending"
+      },
+      {
+        "id": "el-155",
+        "status": "pending"
+      },
+      {
+        "id": "el-156",
+        "status": "pending"
+      },
+      {
+        "id": "el-157",
+        "status": "pending"
+      },
+      {
+        "id": "el-158",
+        "status": "pending"
+      },
+      {
+        "id": "el-162",
+        "status": "pending"
+      },
+      {
+        "id": "el-163",
+        "status": "pending"
+      },
+      {
+        "id": "el-164",
+        "status": "pending"
+      },
+      {
+        "id": "el-165",
+        "status": "pending"
+      }
+    ],
+    "organisms": []
+  },
+  "dependencies": {},
+  "notes": "Tracking System (Bonus): Das Dependency-Tracking ermöglicht es dem Agenten, effizient zu arbeiten. Wenn ein Atom aktualisiert wird (z. B. Farbänderung), markiert das Skript über die 'dependencies' alle Moleküle und Organismen, die dieses Atom referenzieren, mit 'needs_update'. So muss der LLM-Agent nicht den gesamten Prototyp neu generieren, sondern nur die betroffenen übergeordneten Komponenten."
+}

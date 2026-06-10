@@ -1,0 +1,11 @@
+{
+  "status": "in-progress",
+  "lastRun": "",
+  "components": {
+    "atoms": [],
+    "molecules": [],
+    "organisms": []
+  },
+  "dependencies": {},
+  "notes": "Delta Tracking: Wenn ein Atom sich ändert, werden verknüpfte Moleküle in den Status 'needs_update' versetzt, damit der Agent sie gezielt aktualisieren kann."
+}

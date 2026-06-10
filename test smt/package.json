@@ -1,0 +1,39 @@
+{
+  "name": "workout-app-platform",
+  "private": true,
+  "packageManager": "npm@11.6.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel",
+    "lint": "turbo run lint",
+    "check-types": "turbo run check-types",
+    "storybook": "npm run storybook --workspace @workout/shared-components",
+    "build-storybook": "npm run build-storybook --workspace @workout/shared-components",
+    "prototype": "python3 -m http.server 8082 --directory packages/app-prototype",
+    "storybook-static": "python3 -m http.server 6006 --directory packages/shared-components/storybook-static",
+    "admin-web": "cd apps/admin-app && expo start --web --clear --port 8083",
+    "workout-web": "cd apps/workout-app && expo start --web --clear --port 8081",
+    "clean": "rimraf node_modules apps/*/node_modules packages/*/node_modules",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "devDependencies": {
+    "@storybook/react-webpack5": "^10.3.6",
+    "cross-env": "^7.0.3",
+    "rimraf": "^6.0.1",
+    "storybook": "^10.3.6",
+    "tsup": "^8.5.0",
+    "turbo": "^2.5.3",
+    "typescript": "^5.8.3"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "expo": "~54.0.34",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+  }
+}

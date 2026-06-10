@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Workout App Prototype</title>
+    <link rel="stylesheet" href="./prototype.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <section class="hero">
+        <p class="eyebrow">Prototype Source</p>
+        <h1>Ich baue erst den Prototypen, dann die echte Implementierung.</h1>
+        <p class="lead">
+          Dieses HTML/CSS dient als visuelle Vorlage. Daraus leite ich Layout, Abstände, Inhalte und den React-Native-Aufbau ab.
+        </p>
+      </section>
+
+      <section class="prototype-grid">
+        <article class="prototype-card dark-card">
+          <p class="card-label">Workout App</p>
+          <h2>Trainings, Sessions und Fortschritt</h2>
+          <p class="card-copy">
+            Der Workout-Flow beginnt mit einem klaren Dashboard-Prototypen und wird danach in React Native nachgebaut.
+          </p>
+          <div class="stage-list">
+            <div class="stage-item">
+              <strong>Prototype</strong>
+              <span>Schnelle Vorschau mit den wichtigsten Screens.</span>
+            </div>
+            <div class="stage-item">
+              <strong>Implementation</strong>
+              <span>Komponenten und Navigation werden aus dem Prototypen abgeleitet.</span>
+            </div>
+            <div class="stage-item">
+              <strong>Storybook</strong>
+              <span>Jede UI-Komponente bekommt eine Story zur Kontrolle.</span>
+            </div>
+          </div>
+          <div class="workout-list">
+            <div class="workout-card">
+              <span class="badge">Beginner</span>
+              <h3>Prototype Strength Flow</h3>
+              <p>35 min</p>
+            </div>
+            <div class="workout-card">
+              <span class="badge">Intermediate</span>
+              <h3>Prototype Cardio Check</h3>
+              <p>25 min</p>
+            </div>
+            <div class="workout-card">
+              <span class="badge">Beginner</span>
+              <h3>Prototype Mobility Review</h3>
+              <p>15 min</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="prototype-card light-card">
+          <p class="card-label">Admin App</p>
+          <h2>Login, Registrierung und Admin-Übersicht</h2>
+          <p class="card-copy">
+            Der Admin-Flow wird aus einem kompakten Phone-Prototypen abgeleitet, damit die spätere Implementierung konsistent bleibt.
+          </p>
+          <div class="phone-shell">
+            <div class="phone-header">
+              <div>
+                <p class="kicker">Workout Admin</p>
+                <h3>Prototype-driven</h3>
+              </div>
+              <span class="status-pill">SIGNED IN</span>
+            </div>
+            <div class="prototype-note">
+              Ich prüfe den ersten Flow zuerst im HTML/CSS-Prototypen und übernehme danach denselben Aufbau in React Native.
+            </div>
+            <div class="auth-panel">
+              <div class="tabs">
+                <span class="tab active">Anmelden</span>
+                <span class="tab">Registrieren</span>
+              </div>
+              <div class="field">
+                <label>E-Mail</label>
+                <div class="input">name@beispiel.de</div>
+              </div>
+              <div class="field">
+                <label>Passwort</label>
+                <div class="input">••••••••</div>
+              </div>
+              <button class="button">Anmelden</button>
+            </div>
+          </div>
+          <div class="stage-list compact">
+            <div class="stage-item">
+              <strong>Prototype</strong>
+              <span>Login und Registrierung zuerst visuell definieren.</span>
+            </div>
+            <div class="stage-item">
+              <strong>Implementation</strong>
+              <span>Danach die echte App-Logik und Navigation umsetzen.</span>
+            </div>
+          </div>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>

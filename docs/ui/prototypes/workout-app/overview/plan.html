@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Plan — Workout App Prototype</title>
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+  <body>
+    <div class="background-orb-top"></div>
+    <div class="background-orb-bottom"></div>
+    <main class="content">
+      <div class="shell">
+        <div class="top-bar">
+          <div>
+            <div class="brand">Workout App</div>
+            <div class="title">Hallo, Athlet</div>
+            <div class="subtitle">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>
+          </div>
+          <div class="top-bar-meta">
+            <div class="meta-label">SIGNED IN</div>
+            <div class="meta-value">athlet@beispiel.de</div>
+          </div>
+        </div>
+
+        <div class="navigation-row">
+          <a href="overview.html" class="nav-button">Dashboard</a>
+          <a href="plan.html" class="nav-button active">Plan</a>
+          <a href="health.html" class="nav-button">Health</a>
+          <a href="profile.html" class="nav-button">Profil</a>
+        </div>
+
+        <div class="plan-layout">
+          <div class="summary-card">
+            <div class="section-label">Trainingsplan</div>
+            <div class="section-title">Deine Sessions</div>
+            <div class="section-text">Tippe auf ein Workout, um es als erledigt zu markieren oder neu auszuwählen.</div>
+            <div class="progress-track">
+              <div class="progress-fill" style="width: 33%;"></div>
+            </div>
+            <div class="progress-text">1 von 3 Workouts erledigt</div>
+          </div>
+
+          <div class="workout-list">
+            <div class="workout-row" style="transform: scale(1);">
+              <div class="workout-meta">
+                <span class="badge">Beginner</span>
+                <span class="badge" style="margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;">45 min</span>
+              </div>
+              <h3>Lower Body Strength</h3>
+              <div class="row-footer">
+                <div class="row-footer-text">Bereit zum Start</div>
+                <button class="secondary-action" style="background-color: #22c55e;"><span class="secondary-action-text" style="color: #052e16;">Ausgewählt</span></button>
+              </div>
+            </div>
+
+            <div class="workout-row">
+              <div class="workout-meta">
+                <span class="badge">Intermediate</span>
+                <span class="badge" style="margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;">60 min</span>
+              </div>
+              <h3>Core & Cardio</h3>
+              <div class="row-footer">
+                <div class="row-footer-text">Erledigt</div>
+                <button class="secondary-action"><span class="secondary-action-text">Auswählen</span></button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

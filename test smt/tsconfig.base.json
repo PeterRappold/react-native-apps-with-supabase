@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "jsx": "react-jsx",
+    "strict": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "types": [],
+    "baseUrl": ".",
+    "paths": {
+      "@workout/shared-components": ["packages/shared-components/src"],
+      "@workout/app-prototype": ["packages/app-prototype/src"],
+      "@workout/shared-types": ["packages/shared-types/src"],
+      "@workout/shared-utils": ["packages/shared-utils/src"]
+    }
+  }
+}

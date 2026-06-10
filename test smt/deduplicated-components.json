@@ -1,0 +1,994 @@
+{
+  "components": [
+    {
+      "id": "el-001",
+      "tag": "div",
+      "hash": "cd35a2426062b7d58fd4a63f813cc506ef87e449087d28d256b8c393f20fa364",
+      "html": "<div class=\"background-orb-top\" data-agent-id=\"el-001\"></div>"
+    },
+    {
+      "id": "el-002",
+      "tag": "main",
+      "hash": "dc40adc7405148f1e330c93c8636b6a911811d4af76142026a958c9e9035483e",
+      "html": "<main class=\"content\" data-agent-id=\"el-002\">\n      <div class=\"shell\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Train smart. Look sharp.</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">GUEST MODE</div>\n            <div class=\"meta-value\">Login bereit</div>\n          </div>\n        </div>\n\n        <div class=\"auth-layout\">\n          <div class=\"hero-card\">\n            <div class=\"hero-label\">Full-Fitness Experience</div>\n            <div class=\"hero-title\">Design First Approach</div>\n            <div class=\"hero-text\">Visuelle Vorlage als Referenz; die App zeigt das finale Design.</div>\n            <div class=\"hero-stats\">\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">12</div>\n                <div class=\"stat-label\">Workouts</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">3</div>\n                <div class=\"stat-label\">Phasen</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">0%</div>\n                <div class=\"stat-label\">Progress</div>\n              </div>\n            </div>\n          </div>\n\n          <div class=\"auth-card\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Login</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Melde dich an oder registriere dich.</div>\n            \n            <a href=\"login.html\" class=\"button-full\">Jetzt Anmelden</a>\n          </div>\n        </div>\n      </div>\n    </main>"
+    },
+    {
+      "id": "el-003",
+      "tag": "div",
+      "hash": "4a6ec81041e2c306e349f50eb0aba72233840943780736a24cc400267b74285c",
+      "html": "<div class=\"shell\" data-agent-id=\"el-003\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Train smart. Look sharp.</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">GUEST MODE</div>\n            <div class=\"meta-value\">Login bereit</div>\n          </div>\n        </div>\n\n        <div class=\"auth-layout\">\n          <div class=\"hero-card\">\n            <div class=\"hero-label\">Full-Fitness Experience</div>\n            <div class=\"hero-title\">Design First Approach</div>\n            <div class=\"hero-text\">Visuelle Vorlage als Referenz; die App zeigt das finale Design.</div>\n            <div class=\"hero-stats\">\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">12</div>\n                <div class=\"stat-label\">Workouts</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">3</div>\n                <div class=\"stat-label\">Phasen</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">0%</div>\n                <div class=\"stat-label\">Progress</div>\n              </div>\n            </div>\n          </div>\n\n          <div class=\"auth-card\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Login</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Melde dich an oder registriere dich.</div>\n            \n            <a href=\"login.html\" class=\"button-full\">Jetzt Anmelden</a>\n          </div>\n        </div>\n      </div>"
+    },
+    {
+      "id": "el-004",
+      "tag": "div",
+      "hash": "497f55aeb1ee745e73e7f51710a6dd2d65fdbad48aeb5ffd9b90b1ddc7e85729",
+      "html": "<div class=\"top-bar\" data-agent-id=\"el-004\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Train smart. Look sharp.</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">GUEST MODE</div>\n            <div class=\"meta-value\">Login bereit</div>\n          </div>\n        </div>"
+    },
+    {
+      "id": "el-005",
+      "tag": "div",
+      "hash": "f818cd3004572b1383456a6c131329701cf70c1a0bc6ad3dd720aeadfaf3abb8",
+      "html": "<div data-agent-id=\"el-005\">\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Train smart. Look sharp.</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>"
+    },
+    {
+      "id": "el-006",
+      "tag": "div",
+      "hash": "773f3a20b19fe90d336349bfc307839de3b8e5025d6ffe26210b70d0ec98a307",
+      "html": "<div class=\"brand\" data-agent-id=\"el-006\">Workout App</div>"
+    },
+    {
+      "id": "el-007",
+      "tag": "div",
+      "hash": "faab76f6d5e18935cb8b980161ecd2827b4341bc224563fc74bb55d1df4efb77",
+      "html": "<div class=\"title\" data-agent-id=\"el-007\">Train smart. Look sharp.</div>"
+    },
+    {
+      "id": "el-008",
+      "tag": "div",
+      "hash": "2f5fab9f560a74d3bf60aa78385b70706502839669c1c71841208ddae2b1ab6a",
+      "html": "<div class=\"subtitle\" data-agent-id=\"el-008\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>"
+    },
+    {
+      "id": "el-009",
+      "tag": "div",
+      "hash": "d805e7beba8f055bf7edbd6f9b538a3f0c865c60ddd4f0279b2d52ce1f06c184",
+      "html": "<div class=\"top-bar-meta\" data-agent-id=\"el-009\">\n            <div class=\"meta-label\">GUEST MODE</div>\n            <div class=\"meta-value\">Login bereit</div>\n          </div>"
+    },
+    {
+      "id": "el-010",
+      "tag": "div",
+      "hash": "b6c8a82091170e42e00c3f9b30b6592a37e0fabd962fc6db1eec9ea54aa9359e",
+      "html": "<div class=\"meta-label\" data-agent-id=\"el-010\">GUEST MODE</div>"
+    },
+    {
+      "id": "el-011",
+      "tag": "div",
+      "hash": "913bcd13050297f6fd247729115bd1d4494e59e3c8ef85dab1efc07e5cb760b4",
+      "html": "<div class=\"meta-value\" data-agent-id=\"el-011\">Login bereit</div>"
+    },
+    {
+      "id": "el-012",
+      "tag": "div",
+      "hash": "f75c09f17e86c6d963928a94c78932205cd1ce1cda8fc142044ed824c55a3910",
+      "html": "<div class=\"auth-layout\" data-agent-id=\"el-012\">\n          <div class=\"hero-card\">\n            <div class=\"hero-label\">Full-Fitness Experience</div>\n            <div class=\"hero-title\">Design First Approach</div>\n            <div class=\"hero-text\">Visuelle Vorlage als Referenz; die App zeigt das finale Design.</div>\n            <div class=\"hero-stats\">\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">12</div>\n                <div class=\"stat-label\">Workouts</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">3</div>\n                <div class=\"stat-label\">Phasen</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">0%</div>\n                <div class=\"stat-label\">Progress</div>\n              </div>\n            </div>\n          </div>\n\n          <div class=\"auth-card\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Login</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Melde dich an oder registriere dich.</div>\n            \n            <a href=\"login.html\" class=\"button-full\">Jetzt Anmelden</a>\n          </div>\n        </div>"
+    },
+    {
+      "id": "el-013",
+      "tag": "div",
+      "hash": "132fdcd98e567d5788fe4766fdbb693c41678b3b4d03f645eeb48433273b9d68",
+      "html": "<div class=\"hero-card\" data-agent-id=\"el-013\">\n            <div class=\"hero-label\">Full-Fitness Experience</div>\n            <div class=\"hero-title\">Design First Approach</div>\n            <div class=\"hero-text\">Visuelle Vorlage als Referenz; die App zeigt das finale Design.</div>\n            <div class=\"hero-stats\">\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">12</div>\n                <div class=\"stat-label\">Workouts</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">3</div>\n                <div class=\"stat-label\">Phasen</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">0%</div>\n                <div class=\"stat-label\">Progress</div>\n              </div>\n            </div>\n          </div>"
+    },
+    {
+      "id": "el-014",
+      "tag": "div",
+      "hash": "48807ff7e49a78b9f2221f745f1883406b6a44999e1b72293a9a2963f995ae20",
+      "html": "<div class=\"hero-label\" data-agent-id=\"el-014\">Full-Fitness Experience</div>"
+    },
+    {
+      "id": "el-015",
+      "tag": "div",
+      "hash": "5318b62f62d7494228ba83b2ea85543f37a7bd921da0dbaced62bbf33d3c11ec",
+      "html": "<div class=\"hero-title\" data-agent-id=\"el-015\">Design First Approach</div>"
+    },
+    {
+      "id": "el-016",
+      "tag": "div",
+      "hash": "58a8af1714fd342b684079550307d1d2b11fb4bfa0efae78024da12c70a19a18",
+      "html": "<div class=\"hero-text\" data-agent-id=\"el-016\">Visuelle Vorlage als Referenz; die App zeigt das finale Design.</div>"
+    },
+    {
+      "id": "el-017",
+      "tag": "div",
+      "hash": "b429b016a7a756cdc05d3f1aa0728b614e55a2b06edf3bfcfb271561f3b69dda",
+      "html": "<div class=\"hero-stats\" data-agent-id=\"el-017\">\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">12</div>\n                <div class=\"stat-label\">Workouts</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">3</div>\n                <div class=\"stat-label\">Phasen</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">0%</div>\n                <div class=\"stat-label\">Progress</div>\n              </div>\n            </div>"
+    },
+    {
+      "id": "el-018",
+      "tag": "div",
+      "hash": "cde87ed8b14ea1a7db656337bf5f6697e17aae74a36050351351b746c2d93b72",
+      "html": "<div class=\"stat-card\" data-agent-id=\"el-018\">\n                <div class=\"stat-value\">12</div>\n                <div class=\"stat-label\">Workouts</div>\n              </div>"
+    },
+    {
+      "id": "el-019",
+      "tag": "div",
+      "hash": "f7cca35afba2e4004ddd409fbc4e61f2597c22dbddc3c04423ada35937b3b1d4",
+      "html": "<div class=\"stat-value\" data-agent-id=\"el-019\">12</div>"
+    },
+    {
+      "id": "el-020",
+      "tag": "div",
+      "hash": "9688fe85b823d1fe6274d342eb49b59c34ab2b5833c2350e1e253e88f9fa456b",
+      "html": "<div class=\"stat-label\" data-agent-id=\"el-020\">Workouts</div>"
+    },
+    {
+      "id": "el-021",
+      "tag": "div",
+      "hash": "4269f3b1bdd5af4013a00d264b39d2f2c46aabca39e542697075085db3da992e",
+      "html": "<div class=\"stat-card\" data-agent-id=\"el-021\">\n                <div class=\"stat-value\">3</div>\n                <div class=\"stat-label\">Phasen</div>\n              </div>"
+    },
+    {
+      "id": "el-022",
+      "tag": "div",
+      "hash": "13d8219d74ef5365c8e0ff2381640dcee86e6c5d9cda54b279699a6e2d5b1cb8",
+      "html": "<div class=\"stat-value\" data-agent-id=\"el-022\">3</div>"
+    },
+    {
+      "id": "el-023",
+      "tag": "div",
+      "hash": "65771e3ceced52e5395d3dee5bb7ad51ea5db6fe16ef161ecd9a68664ce19391",
+      "html": "<div class=\"stat-label\" data-agent-id=\"el-023\">Phasen</div>"
+    },
+    {
+      "id": "el-024",
+      "tag": "div",
+      "hash": "d10d42905f8a0d430cd54666f099d6aef0ac66a54f5ed5cbd212e80b3fce4bbd",
+      "html": "<div class=\"stat-card\" data-agent-id=\"el-024\">\n                <div class=\"stat-value\">0%</div>\n                <div class=\"stat-label\">Progress</div>\n              </div>"
+    },
+    {
+      "id": "el-025",
+      "tag": "div",
+      "hash": "663283c0c9745a23484a881fd46671692623ff7749b228ea16f925ae0997764b",
+      "html": "<div class=\"stat-value\" data-agent-id=\"el-025\">0%</div>"
+    },
+    {
+      "id": "el-026",
+      "tag": "div",
+      "hash": "bf17e703e825abc7190fc1c7c0c9132fbf25784aa6a1ce7a5638ea1658387697",
+      "html": "<div class=\"stat-label\" data-agent-id=\"el-026\">Progress</div>"
+    },
+    {
+      "id": "el-027",
+      "tag": "div",
+      "hash": "a04583561761036d8be21c915144278f4716aa0b030fe770f3ed8f3f1a070a77",
+      "html": "<div class=\"auth-card\" data-agent-id=\"el-027\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Login</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Melde dich an oder registriere dich.</div>\n            \n            <a href=\"login.html\" class=\"button-full\">Jetzt Anmelden</a>\n          </div>"
+    },
+    {
+      "id": "el-028",
+      "tag": "div",
+      "hash": "f7e2084bb757186561069e0fbf72a8041c855ecff6f4e4a064f369ef4320a102",
+      "html": "<div class=\"auth-tabs\" data-agent-id=\"el-028\">\n              <a href=\"login.html\" class=\"auth-tab\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab\">Registrieren</a>\n            </div>"
+    },
+    {
+      "id": "el-029",
+      "tag": "a",
+      "hash": "986c4a1ee121fdf604219a8bb411b40f95f7cc823ac6e409ba758efd8f9985df",
+      "html": "<a href=\"login.html\" class=\"auth-tab\" data-agent-id=\"el-029\">Login</a>"
+    },
+    {
+      "id": "el-030",
+      "tag": "a",
+      "hash": "262519a034551e95b39cee126c0df8c4798e45cc7a763f58fe6e1fae49d526a8",
+      "html": "<a href=\"registration.html\" class=\"auth-tab\" data-agent-id=\"el-030\">Registrieren</a>"
+    },
+    {
+      "id": "el-031",
+      "tag": "div",
+      "hash": "c3abfd8bad3658280e4344286688f9c75f47e216f513377600a6e4b2c668670b",
+      "html": "<div class=\"section-title\" style=\"margin-top: 10px;\" data-agent-id=\"el-031\">Workout Login</div>"
+    },
+    {
+      "id": "el-032",
+      "tag": "div",
+      "hash": "c57263471be584a74f6c5b8b5017c5ae42e0f6fc5268f59cd180e5f39afa58eb",
+      "html": "<div class=\"section-text\" style=\"margin-bottom: 10px;\" data-agent-id=\"el-032\">Melde dich an oder registriere dich.</div>"
+    },
+    {
+      "id": "el-033",
+      "tag": "a",
+      "hash": "090dc7c04a7b899d48d397fd0c9fe4d6433ece680391e4de381eea4c57aca642",
+      "html": "<a href=\"login.html\" class=\"button-full\" data-agent-id=\"el-033\">Jetzt Anmelden</a>"
+    },
+    {
+      "id": "el-034",
+      "tag": "main",
+      "hash": "582dbae16a04d29193c9a96bb422e8b3f8d3de2b143393d029921c1a39095188",
+      "html": "<main class=\"content\" data-agent-id=\"el-034\">\n      <div class=\"shell\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Train smart. Look sharp.</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">GUEST MODE</div>\n            <div class=\"meta-value\">Login bereit</div>\n          </div>\n        </div>\n\n        <div class=\"auth-layout\">\n          <div class=\"auth-card\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab active\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Login</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Melde dich an oder registriere dich mit beliebigen nicht-leeren Werten.</div>\n            \n            <div class=\"field\">\n              <label>E-Mail</label>\n              <input class=\"input\" type=\"email\" placeholder=\"name@beispiel.de\">\n            </div>\n            <div class=\"field\">\n              <label>Passwort</label>\n              <input class=\"input\" type=\"password\" placeholder=\"&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;\">\n            </div>\n            \n            <a href=\"../overview/overview.html\" class=\"button-full\">Anmelden</a>\n          </div>\n        </div>\n      </div>\n    </main>"
+    },
+    {
+      "id": "el-035",
+      "tag": "div",
+      "hash": "5438c476055deaaa853a97d2683ef93b6403c00c82021bb594193a4541f24c26",
+      "html": "<div class=\"shell\" data-agent-id=\"el-035\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Train smart. Look sharp.</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">GUEST MODE</div>\n            <div class=\"meta-value\">Login bereit</div>\n          </div>\n        </div>\n\n        <div class=\"auth-layout\">\n          <div class=\"auth-card\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab active\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Login</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Melde dich an oder registriere dich mit beliebigen nicht-leeren Werten.</div>\n            \n            <div class=\"field\">\n              <label>E-Mail</label>\n              <input class=\"input\" type=\"email\" placeholder=\"name@beispiel.de\">\n            </div>\n            <div class=\"field\">\n              <label>Passwort</label>\n              <input class=\"input\" type=\"password\" placeholder=\"&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;\">\n            </div>\n            \n            <a href=\"../overview/overview.html\" class=\"button-full\">Anmelden</a>\n          </div>\n        </div>\n      </div>"
+    },
+    {
+      "id": "el-036",
+      "tag": "div",
+      "hash": "d111a84e47bd18f15b27e796d3b6ba1613357677d889b63fc3577378fa171da3",
+      "html": "<div class=\"auth-layout\" data-agent-id=\"el-036\">\n          <div class=\"auth-card\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab active\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Login</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Melde dich an oder registriere dich mit beliebigen nicht-leeren Werten.</div>\n            \n            <div class=\"field\">\n              <label>E-Mail</label>\n              <input class=\"input\" type=\"email\" placeholder=\"name@beispiel.de\">\n            </div>\n            <div class=\"field\">\n              <label>Passwort</label>\n              <input class=\"input\" type=\"password\" placeholder=\"&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;\">\n            </div>\n            \n            <a href=\"../overview/overview.html\" class=\"button-full\">Anmelden</a>\n          </div>\n        </div>"
+    },
+    {
+      "id": "el-037",
+      "tag": "div",
+      "hash": "68b2f857d732057fc5cca56a66015407175856197fcae8bb6add3c1eb41f8b16",
+      "html": "<div class=\"auth-card\" data-agent-id=\"el-037\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab active\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Login</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Melde dich an oder registriere dich mit beliebigen nicht-leeren Werten.</div>\n            \n            <div class=\"field\">\n              <label>E-Mail</label>\n              <input class=\"input\" type=\"email\" placeholder=\"name@beispiel.de\">\n            </div>\n            <div class=\"field\">\n              <label>Passwort</label>\n              <input class=\"input\" type=\"password\" placeholder=\"&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;\">\n            </div>\n            \n            <a href=\"../overview/overview.html\" class=\"button-full\">Anmelden</a>\n          </div>"
+    },
+    {
+      "id": "el-038",
+      "tag": "div",
+      "hash": "eb96a19f21f4f59e385315c131f99e70997bc301713e7c73b09edc040e05fd4b",
+      "html": "<div class=\"auth-tabs\" data-agent-id=\"el-038\">\n              <a href=\"login.html\" class=\"auth-tab active\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab\">Registrieren</a>\n            </div>"
+    },
+    {
+      "id": "el-039",
+      "tag": "div",
+      "hash": "8523d40f1762aa913aa4a557da8ac749ac761ade10905cf34a4a520651609279",
+      "html": "<div class=\"section-text\" style=\"margin-bottom: 10px;\" data-agent-id=\"el-039\">Melde dich an oder registriere dich mit beliebigen nicht-leeren Werten.</div>"
+    },
+    {
+      "id": "el-040",
+      "tag": "div",
+      "hash": "f99747f54f4fac32c71997244fc750b6181bab7e91c72766bb566287c609e6a7",
+      "html": "<div class=\"field\" data-agent-id=\"el-040\">\n              <label>E-Mail</label>\n              <input class=\"input\" type=\"email\" placeholder=\"name@beispiel.de\">\n            </div>"
+    },
+    {
+      "id": "el-041",
+      "tag": "label",
+      "hash": "9656f469b946414b95a08f1515583c03eae0d9b02f4cbbffbade8779cab8da2e",
+      "html": "<label data-agent-id=\"el-041\">E-Mail</label>"
+    },
+    {
+      "id": "el-042",
+      "tag": "input",
+      "hash": "c96c6d5be8d08a12e7b5cdc1b207fa6b2430974c86803d8891675e76fd992c20",
+      "html": "<input class=\"input\" type=\"email\" placeholder=\"name@beispiel.de\" data-agent-id=\"el-042\">"
+    },
+    {
+      "id": "el-043",
+      "tag": "div",
+      "hash": "59abb82afc831f81a858fc4c4ba5b70e627c4925d09dfc048b839d2523911251",
+      "html": "<div class=\"field\" data-agent-id=\"el-043\">\n              <label>Passwort</label>\n              <input class=\"input\" type=\"password\" placeholder=\"&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;\">\n            </div>"
+    },
+    {
+      "id": "el-044",
+      "tag": "label",
+      "hash": "0d65813196c3783f33c3f42f20172f048f0b8b669524ea75b7a7477b1bb568ad",
+      "html": "<label data-agent-id=\"el-044\">Passwort</label>"
+    },
+    {
+      "id": "el-045",
+      "tag": "a",
+      "hash": "8741bbd582d38a8fe3e9db4943714248c0cb0eb5cb39a66f36de703790a18c4c",
+      "html": "<a href=\"../overview/overview.html\" class=\"button-full\" data-agent-id=\"el-045\">Anmelden</a>"
+    },
+    {
+      "id": "el-046",
+      "tag": "main",
+      "hash": "d465f828352c77707d8bd3210dd0d9de68d1b82f710d30ed7446364c1ec13b81",
+      "html": "<main class=\"content\" data-agent-id=\"el-046\">\n      <div class=\"shell\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Train smart. Look sharp.</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">GUEST MODE</div>\n            <div class=\"meta-value\">Login bereit</div>\n          </div>\n        </div>\n\n        <div class=\"auth-layout\">\n          <div class=\"auth-card\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab active\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Registrierung</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Erstelle einen neuen Account.</div>\n            \n            <div class=\"field\">\n              <label>Name</label>\n              <input class=\"input\" type=\"text\" placeholder=\"Dein Name\">\n            </div>\n            <div class=\"field\">\n              <label>E-Mail</label>\n              <input class=\"input\" type=\"email\" placeholder=\"name@beispiel.de\">\n            </div>\n            <div class=\"field\">\n              <label>Passwort</label>\n              <input class=\"input\" type=\"password\" placeholder=\"&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;\">\n            </div>\n            \n            <a href=\"../overview/overview.html\" class=\"button-full\">Registrieren</a>\n          </div>\n        </div>\n      </div>\n    </main>"
+    },
+    {
+      "id": "el-047",
+      "tag": "div",
+      "hash": "e2352261c8c91623cd977628ef55decd3a4fbdedb421a8bbd594bdbebb69dd1d",
+      "html": "<div class=\"shell\" data-agent-id=\"el-047\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Train smart. Look sharp.</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">GUEST MODE</div>\n            <div class=\"meta-value\">Login bereit</div>\n          </div>\n        </div>\n\n        <div class=\"auth-layout\">\n          <div class=\"auth-card\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab active\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Registrierung</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Erstelle einen neuen Account.</div>\n            \n            <div class=\"field\">\n              <label>Name</label>\n              <input class=\"input\" type=\"text\" placeholder=\"Dein Name\">\n            </div>\n            <div class=\"field\">\n              <label>E-Mail</label>\n              <input class=\"input\" type=\"email\" placeholder=\"name@beispiel.de\">\n            </div>\n            <div class=\"field\">\n              <label>Passwort</label>\n              <input class=\"input\" type=\"password\" placeholder=\"&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;\">\n            </div>\n            \n            <a href=\"../overview/overview.html\" class=\"button-full\">Registrieren</a>\n          </div>\n        </div>\n      </div>"
+    },
+    {
+      "id": "el-048",
+      "tag": "div",
+      "hash": "537da1c229040528b94f9520f03872e96b2c9d6cb5ffcf3706b6bf0653278b0f",
+      "html": "<div class=\"auth-layout\" data-agent-id=\"el-048\">\n          <div class=\"auth-card\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab active\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Registrierung</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Erstelle einen neuen Account.</div>\n            \n            <div class=\"field\">\n              <label>Name</label>\n              <input class=\"input\" type=\"text\" placeholder=\"Dein Name\">\n            </div>\n            <div class=\"field\">\n              <label>E-Mail</label>\n              <input class=\"input\" type=\"email\" placeholder=\"name@beispiel.de\">\n            </div>\n            <div class=\"field\">\n              <label>Passwort</label>\n              <input class=\"input\" type=\"password\" placeholder=\"&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;\">\n            </div>\n            \n            <a href=\"../overview/overview.html\" class=\"button-full\">Registrieren</a>\n          </div>\n        </div>"
+    },
+    {
+      "id": "el-049",
+      "tag": "div",
+      "hash": "c80c20da07e63a388d413787dd5d76eb6b407c76e9b1cb58ae856fde3f2f3144",
+      "html": "<div class=\"auth-card\" data-agent-id=\"el-049\">\n            <div class=\"auth-tabs\">\n              <a href=\"login.html\" class=\"auth-tab\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab active\">Registrieren</a>\n            </div>\n            <div class=\"section-title\" style=\"margin-top: 10px;\">Workout Registrierung</div>\n            <div class=\"section-text\" style=\"margin-bottom: 10px;\">Erstelle einen neuen Account.</div>\n            \n            <div class=\"field\">\n              <label>Name</label>\n              <input class=\"input\" type=\"text\" placeholder=\"Dein Name\">\n            </div>\n            <div class=\"field\">\n              <label>E-Mail</label>\n              <input class=\"input\" type=\"email\" placeholder=\"name@beispiel.de\">\n            </div>\n            <div class=\"field\">\n              <label>Passwort</label>\n              <input class=\"input\" type=\"password\" placeholder=\"&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;\">\n            </div>\n            \n            <a href=\"../overview/overview.html\" class=\"button-full\">Registrieren</a>\n          </div>"
+    },
+    {
+      "id": "el-050",
+      "tag": "div",
+      "hash": "3e1813881da0ebaba95cd1b18e58831d50d79deceb04bb1661453015f177464b",
+      "html": "<div class=\"auth-tabs\" data-agent-id=\"el-050\">\n              <a href=\"login.html\" class=\"auth-tab\">Login</a>\n              <a href=\"registration.html\" class=\"auth-tab active\">Registrieren</a>\n            </div>"
+    },
+    {
+      "id": "el-051",
+      "tag": "div",
+      "hash": "c964f9eddf2a7bc56a7ee7d9d6a93fe877d026f4b4994bfee9adb62fb5fd7bab",
+      "html": "<div class=\"section-title\" style=\"margin-top: 10px;\" data-agent-id=\"el-051\">Workout Registrierung</div>"
+    },
+    {
+      "id": "el-052",
+      "tag": "div",
+      "hash": "daff65d7958e9105cb435729b675d3e29ff5df5885552a879fc81d3accdf0e7b",
+      "html": "<div class=\"section-text\" style=\"margin-bottom: 10px;\" data-agent-id=\"el-052\">Erstelle einen neuen Account.</div>"
+    },
+    {
+      "id": "el-053",
+      "tag": "div",
+      "hash": "4930187c23bb1d412027020a41cedf527fe9e7894e04ae200731d0899944f4e5",
+      "html": "<div class=\"field\" data-agent-id=\"el-053\">\n              <label>Name</label>\n              <input class=\"input\" type=\"text\" placeholder=\"Dein Name\">\n            </div>"
+    },
+    {
+      "id": "el-054",
+      "tag": "label",
+      "hash": "520c6e0f0f2b377bf88cf72080842e35679dae55fb8e3e15e06f2ad75970e80c",
+      "html": "<label data-agent-id=\"el-054\">Name</label>"
+    },
+    {
+      "id": "el-055",
+      "tag": "h1",
+      "hash": "462bec685c17c6b3ca170ef95b7719d6cf647bc023a2ba73d764bfc91fd06998",
+      "html": "<h1 data-agent-id=\"el-055\">Workout App Prototypes</h1>"
+    },
+    {
+      "id": "el-056",
+      "tag": "ul",
+      "hash": "38c1baf4a6306464ab3ae6b12fa8d72f79850a04187ffc26fedc408b4f2c33c7",
+      "html": "<ul data-agent-id=\"el-056\">\n    <li><a href=\"auth/landing.html\">Landing Page</a></li>\n    <li><a href=\"auth/login.html\">Login</a></li>\n    <li><a href=\"auth/registration.html\">Registration</a></li>\n    <li><a href=\"overview/overview.html\">Overview (Dashboard)</a></li>\n    <li><a href=\"overview/plan.html\">Plan</a></li>\n    <li><a href=\"overview/health.html\">Health</a></li>\n    <li><a href=\"overview/profile.html\">Profile</a></li>\n  </ul>"
+    },
+    {
+      "id": "el-057",
+      "tag": "li",
+      "hash": "314bc65b8683bf4926ad281fe8c539449acdb099735a2b27b677e274a6947721",
+      "html": "<li data-agent-id=\"el-057\"><a href=\"auth/landing.html\">Landing Page</a></li>"
+    },
+    {
+      "id": "el-058",
+      "tag": "a",
+      "hash": "ea474febd9774fff64b8fa267b6134d98297b66434d13024c8ed0462e505216e",
+      "html": "<a href=\"auth/landing.html\" data-agent-id=\"el-058\">Landing Page</a>"
+    },
+    {
+      "id": "el-059",
+      "tag": "li",
+      "hash": "40279794fa2c834ddedbb1ece5817e62b0cd71086aeec724ddb85feb0084231c",
+      "html": "<li data-agent-id=\"el-059\"><a href=\"auth/login.html\">Login</a></li>"
+    },
+    {
+      "id": "el-060",
+      "tag": "li",
+      "hash": "a282df13b27b9b1dd16f3e39831b70ab2ab17ee2b4352c9810ce0cf10be60788",
+      "html": "<li data-agent-id=\"el-060\"><a href=\"auth/registration.html\">Registration</a></li>"
+    },
+    {
+      "id": "el-061",
+      "tag": "a",
+      "hash": "83e4ab374d6a14322afdc0115c356217d025cf1527239f6381d1140acccd9ce5",
+      "html": "<a href=\"auth/registration.html\" data-agent-id=\"el-061\">Registration</a>"
+    },
+    {
+      "id": "el-062",
+      "tag": "li",
+      "hash": "2d7c8332e5792238fcd795a474dffa8b2117bb3f4566f3e1795a3dc81802c6fe",
+      "html": "<li data-agent-id=\"el-062\"><a href=\"overview/overview.html\">Overview (Dashboard)</a></li>"
+    },
+    {
+      "id": "el-063",
+      "tag": "a",
+      "hash": "737b01fc5f745fc8a52af9dc66ad66c037ada14bf83494d86fe3feab01fa22f8",
+      "html": "<a href=\"overview/overview.html\" data-agent-id=\"el-063\">Overview (Dashboard)</a>"
+    },
+    {
+      "id": "el-064",
+      "tag": "li",
+      "hash": "360e33f325d1caa0af0dcda86e973c1a06afa2785d5695361902fd70388defe8",
+      "html": "<li data-agent-id=\"el-064\"><a href=\"overview/plan.html\">Plan</a></li>"
+    },
+    {
+      "id": "el-065",
+      "tag": "a",
+      "hash": "28fefbb0e4182830f0d28f8c7e537c1c34500002e36e06a93750e45f7db0bcbd",
+      "html": "<a href=\"overview/plan.html\" data-agent-id=\"el-065\">Plan</a>"
+    },
+    {
+      "id": "el-066",
+      "tag": "li",
+      "hash": "cb84dc62a781f68c00918122931450c96017703e593fc759b10ae2431bce0036",
+      "html": "<li data-agent-id=\"el-066\"><a href=\"overview/health.html\">Health</a></li>"
+    },
+    {
+      "id": "el-067",
+      "tag": "a",
+      "hash": "a6549b5e7d2ce6e5291195216e23c3e4b2c9525df0c737f00fe43e8e12d411bb",
+      "html": "<a href=\"overview/health.html\" data-agent-id=\"el-067\">Health</a>"
+    },
+    {
+      "id": "el-068",
+      "tag": "li",
+      "hash": "cc04597dbf2078e19c0ef74350f4992c2ac9232022109c2f3a0be16e2eaee8bb",
+      "html": "<li data-agent-id=\"el-068\"><a href=\"overview/profile.html\">Profile</a></li>"
+    },
+    {
+      "id": "el-069",
+      "tag": "a",
+      "hash": "bba67602bb5ffb27abed85b479a1213d733401a4f1f42635e4ecc1b6675702d9",
+      "html": "<a href=\"overview/profile.html\" data-agent-id=\"el-069\">Profile</a>"
+    },
+    {
+      "id": "el-070",
+      "tag": "main",
+      "hash": "7be990001c9cd79d97f13c1afc52307fe24370f643b95822e7d5c2e15742d098",
+      "html": "<main class=\"content\" data-agent-id=\"el-070\">\n      <div class=\"shell\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Hallo, Athlet</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">SIGNED IN</div>\n            <div class=\"meta-value\">athlet@beispiel.de</div>\n          </div>\n        </div>\n\n        <div class=\"navigation-row\">\n          <a href=\"overview.html\" class=\"nav-button\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button active\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button\">Profil</a>\n        </div>\n\n        <div class=\"auth-card\"> <!-- Reusing auth-card style for health-card structure -->\n          <div class=\"section-label\">System Check</div>\n          <div class=\"section-title\">Health Page</div>\n          <div class=\"section-text\">Prueft die Erreichbarkeit der Supabase Edge Function vom Workout-Client.</div>\n          \n          <div class=\"field\">\n            <label>Endpoint</label>\n            <div style=\"color: #f8fafc; font-size: 14px;\">https://example.supabase.co/functions/v1/...</div>\n          </div>\n          \n          <div style=\"display: flex; justify-content: space-between; align-items: center;\">\n            <label style=\"font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase; color: #94a3b8; font-weight: 800;\">Status</label>\n            <span style=\"border-radius: 999px; padding: 6px 12px; font-size: 12px; font-weight: 800; background-color: rgba(34, 197, 94, 0.22); color: #86efac;\">HEALTHY</span>\n          </div>\n          \n          <div style=\"font-size: 14px; margin-bottom: 10px;\">Verbindung zur Edge Function ist gesund.</div>\n          \n          <button class=\"primary-action\" style=\"border: none; cursor: pointer;\"><span class=\"primary-action-text\">Health-Check ausfuehren</span></button>\n        </div>\n      </div>\n    </main>"
+    },
+    {
+      "id": "el-071",
+      "tag": "div",
+      "hash": "c804ed6f928f1973d4e1f4690fc7483fcb94257ae260bedaac6d430b141ddac6",
+      "html": "<div class=\"shell\" data-agent-id=\"el-071\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Hallo, Athlet</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">SIGNED IN</div>\n            <div class=\"meta-value\">athlet@beispiel.de</div>\n          </div>\n        </div>\n\n        <div class=\"navigation-row\">\n          <a href=\"overview.html\" class=\"nav-button\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button active\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button\">Profil</a>\n        </div>\n\n        <div class=\"auth-card\"> <!-- Reusing auth-card style for health-card structure -->\n          <div class=\"section-label\">System Check</div>\n          <div class=\"section-title\">Health Page</div>\n          <div class=\"section-text\">Prueft die Erreichbarkeit der Supabase Edge Function vom Workout-Client.</div>\n          \n          <div class=\"field\">\n            <label>Endpoint</label>\n            <div style=\"color: #f8fafc; font-size: 14px;\">https://example.supabase.co/functions/v1/...</div>\n          </div>\n          \n          <div style=\"display: flex; justify-content: space-between; align-items: center;\">\n            <label style=\"font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase; color: #94a3b8; font-weight: 800;\">Status</label>\n            <span style=\"border-radius: 999px; padding: 6px 12px; font-size: 12px; font-weight: 800; background-color: rgba(34, 197, 94, 0.22); color: #86efac;\">HEALTHY</span>\n          </div>\n          \n          <div style=\"font-size: 14px; margin-bottom: 10px;\">Verbindung zur Edge Function ist gesund.</div>\n          \n          <button class=\"primary-action\" style=\"border: none; cursor: pointer;\"><span class=\"primary-action-text\">Health-Check ausfuehren</span></button>\n        </div>\n      </div>"
+    },
+    {
+      "id": "el-072",
+      "tag": "div",
+      "hash": "6cbdb428e95d5d71ec9d846fa3af0ae07dfb013cc9eac7945a0b491963876544",
+      "html": "<div class=\"top-bar\" data-agent-id=\"el-072\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Hallo, Athlet</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">SIGNED IN</div>\n            <div class=\"meta-value\">athlet@beispiel.de</div>\n          </div>\n        </div>"
+    },
+    {
+      "id": "el-073",
+      "tag": "div",
+      "hash": "b44b2fd0ea83794a92017c49ef3e91cdf50c28aac0398fd6db08a559242e3f30",
+      "html": "<div data-agent-id=\"el-073\">\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Hallo, Athlet</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>"
+    },
+    {
+      "id": "el-074",
+      "tag": "div",
+      "hash": "ea0102885173fde1d75459af5f426d9efbddc52b6617fef64c6859749a65e0e0",
+      "html": "<div class=\"title\" data-agent-id=\"el-074\">Hallo, Athlet</div>"
+    },
+    {
+      "id": "el-075",
+      "tag": "div",
+      "hash": "d0c49bf1485a83e2f914210d519b8224674b6f5ba99c52adc3aad2c2974e7fc2",
+      "html": "<div class=\"top-bar-meta\" data-agent-id=\"el-075\">\n            <div class=\"meta-label\">SIGNED IN</div>\n            <div class=\"meta-value\">athlet@beispiel.de</div>\n          </div>"
+    },
+    {
+      "id": "el-076",
+      "tag": "div",
+      "hash": "5e7c28a4436af8853526eb354f1f48d07239e1b3b6b6f78445444f0f07dc2c32",
+      "html": "<div class=\"meta-label\" data-agent-id=\"el-076\">SIGNED IN</div>"
+    },
+    {
+      "id": "el-077",
+      "tag": "div",
+      "hash": "e44487b75b71fb9c9f453674d572e0b47ad8365fec3e9ff8e2fd31350169e13e",
+      "html": "<div class=\"meta-value\" data-agent-id=\"el-077\">athlet@beispiel.de</div>"
+    },
+    {
+      "id": "el-078",
+      "tag": "div",
+      "hash": "dcd47000f941052538db6d550c314a3185c513bc3d2c2773b60b9a6d440d4f47",
+      "html": "<div class=\"navigation-row\" data-agent-id=\"el-078\">\n          <a href=\"overview.html\" class=\"nav-button\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button active\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button\">Profil</a>\n        </div>"
+    },
+    {
+      "id": "el-079",
+      "tag": "a",
+      "hash": "d5c5a74098373f814eb88467d5bfcb192545cb14caf315a234abe4b68864899c",
+      "html": "<a href=\"overview.html\" class=\"nav-button\" data-agent-id=\"el-079\">Dashboard</a>"
+    },
+    {
+      "id": "el-080",
+      "tag": "a",
+      "hash": "5d6a7e9cd39e8d13566388d0ae0e87df6f59b8926d1b565ca0f5f7bdb1482bb9",
+      "html": "<a href=\"profile.html\" class=\"nav-button\" data-agent-id=\"el-080\">Profil</a>"
+    },
+    {
+      "id": "el-081",
+      "tag": "div",
+      "hash": "8be85cac2b6409ac80ade4e9464de88b64f0e53a2f80f0f59895997ee6ed45b5",
+      "html": "<div class=\"auth-card\" data-agent-id=\"el-081\"> <!-- Reusing auth-card style for health-card structure -->\n          <div class=\"section-label\">System Check</div>\n          <div class=\"section-title\">Health Page</div>\n          <div class=\"section-text\">Prueft die Erreichbarkeit der Supabase Edge Function vom Workout-Client.</div>\n          \n          <div class=\"field\">\n            <label>Endpoint</label>\n            <div style=\"color: #f8fafc; font-size: 14px;\">https://example.supabase.co/functions/v1/...</div>\n          </div>\n          \n          <div style=\"display: flex; justify-content: space-between; align-items: center;\">\n            <label style=\"font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase; color: #94a3b8; font-weight: 800;\">Status</label>\n            <span style=\"border-radius: 999px; padding: 6px 12px; font-size: 12px; font-weight: 800; background-color: rgba(34, 197, 94, 0.22); color: #86efac;\">HEALTHY</span>\n          </div>\n          \n          <div style=\"font-size: 14px; margin-bottom: 10px;\">Verbindung zur Edge Function ist gesund.</div>\n          \n          <button class=\"primary-action\" style=\"border: none; cursor: pointer;\"><span class=\"primary-action-text\">Health-Check ausfuehren</span></button>\n        </div>"
+    },
+    {
+      "id": "el-082",
+      "tag": "div",
+      "hash": "b6392197ec53ed44546b9c186f40a9f419a64d0ae14b8352c4ff262991bfdbef",
+      "html": "<div class=\"section-label\" data-agent-id=\"el-082\">System Check</div>"
+    },
+    {
+      "id": "el-083",
+      "tag": "div",
+      "hash": "499440d2e4c581e5a7885ec47338dab943eb375c33e1f9aeba743b107e708200",
+      "html": "<div class=\"section-title\" data-agent-id=\"el-083\">Health Page</div>"
+    },
+    {
+      "id": "el-084",
+      "tag": "div",
+      "hash": "e3a7e51babce11f6fdb0376b9d357ec977abc72d8951c52a8e45137849ea3be8",
+      "html": "<div class=\"section-text\" data-agent-id=\"el-084\">Prueft die Erreichbarkeit der Supabase Edge Function vom Workout-Client.</div>"
+    },
+    {
+      "id": "el-085",
+      "tag": "div",
+      "hash": "52a1fbf5320cc1af6f14387763384b2e59cbbf7097097bf6bc8b882a1881c241",
+      "html": "<div class=\"field\" data-agent-id=\"el-085\">\n            <label>Endpoint</label>\n            <div style=\"color: #f8fafc; font-size: 14px;\">https://example.supabase.co/functions/v1/...</div>\n          </div>"
+    },
+    {
+      "id": "el-086",
+      "tag": "label",
+      "hash": "30935daedead645329cb4d97856a31336c1cae894c128616bfca115c4413b20d",
+      "html": "<label data-agent-id=\"el-086\">Endpoint</label>"
+    },
+    {
+      "id": "el-087",
+      "tag": "div",
+      "hash": "87ef0c27cc637a317b4ea6319ef9c2166c1bc56e0497d986c5beb5b1f8c41ad8",
+      "html": "<div style=\"color: #f8fafc; font-size: 14px;\" data-agent-id=\"el-087\">https://example.supabase.co/functions/v1/...</div>"
+    },
+    {
+      "id": "el-088",
+      "tag": "div",
+      "hash": "6d08c95a59db9e4c549cf91c4b10b6b1a6d233573f31783a5de8884a564bd732",
+      "html": "<div style=\"display: flex; justify-content: space-between; align-items: center;\" data-agent-id=\"el-088\">\n            <label style=\"font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase; color: #94a3b8; font-weight: 800;\">Status</label>\n            <span style=\"border-radius: 999px; padding: 6px 12px; font-size: 12px; font-weight: 800; background-color: rgba(34, 197, 94, 0.22); color: #86efac;\">HEALTHY</span>\n          </div>"
+    },
+    {
+      "id": "el-089",
+      "tag": "label",
+      "hash": "97e4a781241f1a7406840698d7365aad3e161ad2d373d9048837b99aeab653c2",
+      "html": "<label style=\"font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase; color: #94a3b8; font-weight: 800;\" data-agent-id=\"el-089\">Status</label>"
+    },
+    {
+      "id": "el-090",
+      "tag": "span",
+      "hash": "11026a87d4037048bf16dbdae31ad04bc3520c4a52c56480426a6a7675ff206e",
+      "html": "<span style=\"border-radius: 999px; padding: 6px 12px; font-size: 12px; font-weight: 800; background-color: rgba(34, 197, 94, 0.22); color: #86efac;\" data-agent-id=\"el-090\">HEALTHY</span>"
+    },
+    {
+      "id": "el-091",
+      "tag": "div",
+      "hash": "a8e538cde04f4ecbe951a614d1673efc5170204a2010b4d83e0fe9f133c2f478",
+      "html": "<div style=\"font-size: 14px; margin-bottom: 10px;\" data-agent-id=\"el-091\">Verbindung zur Edge Function ist gesund.</div>"
+    },
+    {
+      "id": "el-092",
+      "tag": "button",
+      "hash": "bd617c7813da695467a2981f192fef9a9590e6fab683db08d84af98cef3899a4",
+      "html": "<button class=\"primary-action\" style=\"border: none; cursor: pointer;\" data-agent-id=\"el-092\"><span class=\"primary-action-text\">Health-Check ausfuehren</span></button>"
+    },
+    {
+      "id": "el-093",
+      "tag": "span",
+      "hash": "b6ed8f29a5134b43c0d80f9e6d83edb3f6894d98d4af0207e44923eb129d3eb1",
+      "html": "<span class=\"primary-action-text\" data-agent-id=\"el-093\">Health-Check ausfuehren</span>"
+    },
+    {
+      "id": "el-094",
+      "tag": "main",
+      "hash": "9a9a76b38377bbe04fcaceadba992131e2f940c8215fa3379829ba2b51b62eb2",
+      "html": "<main class=\"content\" data-agent-id=\"el-094\">\n      <div class=\"shell\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Hallo, Athlet</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">SIGNED IN</div>\n            <div class=\"meta-value\">athlet@beispiel.de</div>\n          </div>\n        </div>\n\n        <div class=\"navigation-row\">\n          <a href=\"overview.html\" class=\"nav-button active\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button\">Profil</a>\n        </div>\n\n        <div class=\"dashboard-grid\">\n          <div class=\"hero-card\">\n            <div class=\"hero-label\">Today</div>\n            <div class=\"hero-title\">Full-Fitness Experience</div>\n            <div class=\"hero-text\">Visuelle Vorlage als Referenz; die App zeigt das finale Design.</div>\n            <div class=\"hero-stats\">\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">33%</div>\n                <div class=\"stat-label\">Erledigt</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">1</div>\n                <div class=\"stat-label\">Abgehakt</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">45m</div>\n                <div class=\"stat-label\">N&#xE4;chste Einheit</div>\n              </div>\n            </div>\n          </div>\n\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Aktueller Fokus</div>\n            <div class=\"section-title\">Lower Body Strength</div>\n            <div class=\"section-text\">Dauer 45 Minuten &#xB7; Level Beginner</div>\n            <a href=\"plan.html\" class=\"primary-action\" style=\"text-decoration:none;\">\n              <span class=\"primary-action-text\">Plan &#xF6;ffnen</span>\n            </a>\n          </div>\n\n          <div class=\"stage-grid\">\n            <div class=\"stage-card\">\n              <div class=\"stage-title\">Foundation</div>\n              <div class=\"stage-text\">Build basic strength and perfect your form.</div>\n            </div>\n            <div class=\"stage-card\">\n              <div class=\"stage-title\">Hypertrophy</div>\n              <div class=\"stage-text\">Increase muscle mass and definition.</div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </main>"
+    },
+    {
+      "id": "el-095",
+      "tag": "div",
+      "hash": "b9f00b7880895553c663bc19ede449088847fa59ac4b24a22fb9245696de037e",
+      "html": "<div class=\"shell\" data-agent-id=\"el-095\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Hallo, Athlet</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">SIGNED IN</div>\n            <div class=\"meta-value\">athlet@beispiel.de</div>\n          </div>\n        </div>\n\n        <div class=\"navigation-row\">\n          <a href=\"overview.html\" class=\"nav-button active\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button\">Profil</a>\n        </div>\n\n        <div class=\"dashboard-grid\">\n          <div class=\"hero-card\">\n            <div class=\"hero-label\">Today</div>\n            <div class=\"hero-title\">Full-Fitness Experience</div>\n            <div class=\"hero-text\">Visuelle Vorlage als Referenz; die App zeigt das finale Design.</div>\n            <div class=\"hero-stats\">\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">33%</div>\n                <div class=\"stat-label\">Erledigt</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">1</div>\n                <div class=\"stat-label\">Abgehakt</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">45m</div>\n                <div class=\"stat-label\">N&#xE4;chste Einheit</div>\n              </div>\n            </div>\n          </div>\n\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Aktueller Fokus</div>\n            <div class=\"section-title\">Lower Body Strength</div>\n            <div class=\"section-text\">Dauer 45 Minuten &#xB7; Level Beginner</div>\n            <a href=\"plan.html\" class=\"primary-action\" style=\"text-decoration:none;\">\n              <span class=\"primary-action-text\">Plan &#xF6;ffnen</span>\n            </a>\n          </div>\n\n          <div class=\"stage-grid\">\n            <div class=\"stage-card\">\n              <div class=\"stage-title\">Foundation</div>\n              <div class=\"stage-text\">Build basic strength and perfect your form.</div>\n            </div>\n            <div class=\"stage-card\">\n              <div class=\"stage-title\">Hypertrophy</div>\n              <div class=\"stage-text\">Increase muscle mass and definition.</div>\n            </div>\n          </div>\n        </div>\n      </div>"
+    },
+    {
+      "id": "el-096",
+      "tag": "div",
+      "hash": "e197455c14b3866d42e776a0f32c0a0f6deeee26bc72e41466fc3c6f523154f5",
+      "html": "<div class=\"navigation-row\" data-agent-id=\"el-096\">\n          <a href=\"overview.html\" class=\"nav-button active\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button\">Profil</a>\n        </div>"
+    },
+    {
+      "id": "el-097",
+      "tag": "div",
+      "hash": "3947223da94f0c412c3272e95a19d70de77562c8d2deefe7531706785bb3f5e5",
+      "html": "<div class=\"dashboard-grid\" data-agent-id=\"el-097\">\n          <div class=\"hero-card\">\n            <div class=\"hero-label\">Today</div>\n            <div class=\"hero-title\">Full-Fitness Experience</div>\n            <div class=\"hero-text\">Visuelle Vorlage als Referenz; die App zeigt das finale Design.</div>\n            <div class=\"hero-stats\">\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">33%</div>\n                <div class=\"stat-label\">Erledigt</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">1</div>\n                <div class=\"stat-label\">Abgehakt</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">45m</div>\n                <div class=\"stat-label\">N&#xE4;chste Einheit</div>\n              </div>\n            </div>\n          </div>\n\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Aktueller Fokus</div>\n            <div class=\"section-title\">Lower Body Strength</div>\n            <div class=\"section-text\">Dauer 45 Minuten &#xB7; Level Beginner</div>\n            <a href=\"plan.html\" class=\"primary-action\" style=\"text-decoration:none;\">\n              <span class=\"primary-action-text\">Plan &#xF6;ffnen</span>\n            </a>\n          </div>\n\n          <div class=\"stage-grid\">\n            <div class=\"stage-card\">\n              <div class=\"stage-title\">Foundation</div>\n              <div class=\"stage-text\">Build basic strength and perfect your form.</div>\n            </div>\n            <div class=\"stage-card\">\n              <div class=\"stage-title\">Hypertrophy</div>\n              <div class=\"stage-text\">Increase muscle mass and definition.</div>\n            </div>\n          </div>\n        </div>"
+    },
+    {
+      "id": "el-098",
+      "tag": "div",
+      "hash": "6db006ac482e65fc20684e97bcd6ba77dfa4e217974d1b5e2444135b3bec5bfa",
+      "html": "<div class=\"hero-card\" data-agent-id=\"el-098\">\n            <div class=\"hero-label\">Today</div>\n            <div class=\"hero-title\">Full-Fitness Experience</div>\n            <div class=\"hero-text\">Visuelle Vorlage als Referenz; die App zeigt das finale Design.</div>\n            <div class=\"hero-stats\">\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">33%</div>\n                <div class=\"stat-label\">Erledigt</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">1</div>\n                <div class=\"stat-label\">Abgehakt</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">45m</div>\n                <div class=\"stat-label\">N&#xE4;chste Einheit</div>\n              </div>\n            </div>\n          </div>"
+    },
+    {
+      "id": "el-099",
+      "tag": "div",
+      "hash": "455eba81e6ac0b42468f16d845a2dce77979e784b3dde2c9deb0feb402d243f1",
+      "html": "<div class=\"hero-label\" data-agent-id=\"el-099\">Today</div>"
+    },
+    {
+      "id": "el-100",
+      "tag": "div",
+      "hash": "f93ed310226c142adf7f3de8d4e56ba1714ae319413967781c82d25e51fa4221",
+      "html": "<div class=\"hero-stats\" data-agent-id=\"el-100\">\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">33%</div>\n                <div class=\"stat-label\">Erledigt</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">1</div>\n                <div class=\"stat-label\">Abgehakt</div>\n              </div>\n              <div class=\"stat-card\">\n                <div class=\"stat-value\">45m</div>\n                <div class=\"stat-label\">N&#xE4;chste Einheit</div>\n              </div>\n            </div>"
+    },
+    {
+      "id": "el-101",
+      "tag": "div",
+      "hash": "48f85a5e098649abfb212b99878f63e75ea5132a1341537f78967be159def42c",
+      "html": "<div class=\"stat-card\" data-agent-id=\"el-101\">\n                <div class=\"stat-value\">33%</div>\n                <div class=\"stat-label\">Erledigt</div>\n              </div>"
+    },
+    {
+      "id": "el-102",
+      "tag": "div",
+      "hash": "9ebe531deab0d15fa84f9302a3f34294967004bfa5ed9b9ee54dd0853d974266",
+      "html": "<div class=\"stat-value\" data-agent-id=\"el-102\">33%</div>"
+    },
+    {
+      "id": "el-103",
+      "tag": "div",
+      "hash": "22114746e31bcd9e547e88b5013cbb2b1faf56176ea6cab8d391c473379a0c60",
+      "html": "<div class=\"stat-label\" data-agent-id=\"el-103\">Erledigt</div>"
+    },
+    {
+      "id": "el-104",
+      "tag": "div",
+      "hash": "186f412ae733a8d351ef23a54742d2755f86248475e7db78912903f7840af095",
+      "html": "<div class=\"stat-card\" data-agent-id=\"el-104\">\n                <div class=\"stat-value\">1</div>\n                <div class=\"stat-label\">Abgehakt</div>\n              </div>"
+    },
+    {
+      "id": "el-105",
+      "tag": "div",
+      "hash": "90f7d234ee14e8dec4851967f244ad78df1fffe23ce40f9ed4d3ac5d39397ba9",
+      "html": "<div class=\"stat-value\" data-agent-id=\"el-105\">1</div>"
+    },
+    {
+      "id": "el-106",
+      "tag": "div",
+      "hash": "1fbac9e27b6d3b620c7a19b8b216503fb2a77edd60c05b23a6fae5a85a1101ef",
+      "html": "<div class=\"stat-label\" data-agent-id=\"el-106\">Abgehakt</div>"
+    },
+    {
+      "id": "el-107",
+      "tag": "div",
+      "hash": "35e647619d8d97df9021127f73174a4d6a42aa2d4b2c64842b146a0040390185",
+      "html": "<div class=\"stat-card\" data-agent-id=\"el-107\">\n                <div class=\"stat-value\">45m</div>\n                <div class=\"stat-label\">N&#xE4;chste Einheit</div>\n              </div>"
+    },
+    {
+      "id": "el-108",
+      "tag": "div",
+      "hash": "f238bd27b0f5edd7f69f72fa9f048a225559c01085bf9c33e25a2797bfa5a5bd",
+      "html": "<div class=\"stat-value\" data-agent-id=\"el-108\">45m</div>"
+    },
+    {
+      "id": "el-109",
+      "tag": "div",
+      "hash": "e4573c64ee6feb0480a451ae7575c74ce457c181f747fdabff88a41a234d761e",
+      "html": "<div class=\"stat-label\" data-agent-id=\"el-109\">N&#xE4;chste Einheit</div>"
+    },
+    {
+      "id": "el-110",
+      "tag": "div",
+      "hash": "b3a9c749adaf6d6833f3c73f05f2a100948b9fc4f08bee851b02cef401945b3e",
+      "html": "<div class=\"summary-card\" data-agent-id=\"el-110\">\n            <div class=\"section-label\">Aktueller Fokus</div>\n            <div class=\"section-title\">Lower Body Strength</div>\n            <div class=\"section-text\">Dauer 45 Minuten &#xB7; Level Beginner</div>\n            <a href=\"plan.html\" class=\"primary-action\" style=\"text-decoration:none;\">\n              <span class=\"primary-action-text\">Plan &#xF6;ffnen</span>\n            </a>\n          </div>"
+    },
+    {
+      "id": "el-111",
+      "tag": "div",
+      "hash": "6fd1214ba26c0c897f6d8eed1e38ce33954e7f02bb9504b7790a3cde85b7f16f",
+      "html": "<div class=\"section-label\" data-agent-id=\"el-111\">Aktueller Fokus</div>"
+    },
+    {
+      "id": "el-112",
+      "tag": "div",
+      "hash": "0979d445fb6b89cbccaa278a88e750bf6b9221b192211a4ed4740925273a4f8d",
+      "html": "<div class=\"section-title\" data-agent-id=\"el-112\">Lower Body Strength</div>"
+    },
+    {
+      "id": "el-113",
+      "tag": "div",
+      "hash": "96fb6a0bfea40d61d7b2984aa4de5fd138874aab6dbb18cb5d17c5ae6fd23219",
+      "html": "<div class=\"section-text\" data-agent-id=\"el-113\">Dauer 45 Minuten &#xB7; Level Beginner</div>"
+    },
+    {
+      "id": "el-114",
+      "tag": "a",
+      "hash": "220a3f772433426f09657344457b9b740aabf2927564688abc265032852e2228",
+      "html": "<a href=\"plan.html\" class=\"primary-action\" style=\"text-decoration:none;\" data-agent-id=\"el-114\">\n              <span class=\"primary-action-text\">Plan &#xF6;ffnen</span>\n            </a>"
+    },
+    {
+      "id": "el-115",
+      "tag": "span",
+      "hash": "35660eab2b11d5e0cef768984e0e730f53e4242ef752816cc5e7447066d3d54f",
+      "html": "<span class=\"primary-action-text\" data-agent-id=\"el-115\">Plan &#xF6;ffnen</span>"
+    },
+    {
+      "id": "el-116",
+      "tag": "div",
+      "hash": "ead2ba80207174c81bca32ae0d53dd56a54c9837e75b25a648b37f8f3eea1385",
+      "html": "<div class=\"stage-grid\" data-agent-id=\"el-116\">\n            <div class=\"stage-card\">\n              <div class=\"stage-title\">Foundation</div>\n              <div class=\"stage-text\">Build basic strength and perfect your form.</div>\n            </div>\n            <div class=\"stage-card\">\n              <div class=\"stage-title\">Hypertrophy</div>\n              <div class=\"stage-text\">Increase muscle mass and definition.</div>\n            </div>\n          </div>"
+    },
+    {
+      "id": "el-117",
+      "tag": "div",
+      "hash": "c38bea0fbf73600a90f32a7f888df6815b78a8dfdf3b007f7da4407d6a873657",
+      "html": "<div class=\"stage-card\" data-agent-id=\"el-117\">\n              <div class=\"stage-title\">Foundation</div>\n              <div class=\"stage-text\">Build basic strength and perfect your form.</div>\n            </div>"
+    },
+    {
+      "id": "el-118",
+      "tag": "div",
+      "hash": "ab2e1be6e99fad9012b65670f14e9eced07145b035792e0bb580ed79699e94af",
+      "html": "<div class=\"stage-title\" data-agent-id=\"el-118\">Foundation</div>"
+    },
+    {
+      "id": "el-119",
+      "tag": "div",
+      "hash": "e7544d47cd2cbbe865f9b190c227b513de1768f03800a09d878d3fe439ecbf77",
+      "html": "<div class=\"stage-text\" data-agent-id=\"el-119\">Build basic strength and perfect your form.</div>"
+    },
+    {
+      "id": "el-120",
+      "tag": "div",
+      "hash": "d1011f88cd3570042a2cccb615e974bf8b734f94f4660a2431c352e640c695f1",
+      "html": "<div class=\"stage-card\" data-agent-id=\"el-120\">\n              <div class=\"stage-title\">Hypertrophy</div>\n              <div class=\"stage-text\">Increase muscle mass and definition.</div>\n            </div>"
+    },
+    {
+      "id": "el-121",
+      "tag": "div",
+      "hash": "6ae3971726550a82e77e55c75eee30dcf6ecb769c52f7417358f2ede7df7c17f",
+      "html": "<div class=\"stage-title\" data-agent-id=\"el-121\">Hypertrophy</div>"
+    },
+    {
+      "id": "el-122",
+      "tag": "div",
+      "hash": "10b77e3d1b1f4050a82346be3a3dd72becda2ffaeebed5c0a97aa68b6a58ee5b",
+      "html": "<div class=\"stage-text\" data-agent-id=\"el-122\">Increase muscle mass and definition.</div>"
+    },
+    {
+      "id": "el-123",
+      "tag": "main",
+      "hash": "07655d93822ffae50754e1b9d4feebe1426e1b429efca9f5f9f22f8672e37c1a",
+      "html": "<main class=\"content\" data-agent-id=\"el-123\">\n      <div class=\"shell\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Hallo, Athlet</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">SIGNED IN</div>\n            <div class=\"meta-value\">athlet@beispiel.de</div>\n          </div>\n        </div>\n\n        <div class=\"navigation-row\">\n          <a href=\"overview.html\" class=\"nav-button\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button active\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button\">Profil</a>\n        </div>\n\n        <div class=\"plan-layout\">\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Trainingsplan</div>\n            <div class=\"section-title\">Deine Sessions</div>\n            <div class=\"section-text\">Tippe auf ein Workout, um es als erledigt zu markieren oder neu auszuw&#xE4;hlen.</div>\n            <div class=\"progress-track\">\n              <div class=\"progress-fill\" style=\"width: 33%;\"></div>\n            </div>\n            <div class=\"progress-text\">1 von 3 Workouts erledigt</div>\n          </div>\n\n          <div class=\"workout-list\">\n            <div class=\"workout-row\" style=\"transform: scale(1);\">\n              <div class=\"workout-meta\">\n                <span class=\"badge\">Beginner</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">45 min</span>\n              </div>\n              <h3>Lower Body Strength</h3>\n              <div class=\"row-footer\">\n                <div class=\"row-footer-text\">Bereit zum Start</div>\n                <button class=\"secondary-action\" style=\"background-color: #22c55e;\"><span class=\"secondary-action-text\" style=\"color: #052e16;\">Ausgew&#xE4;hlt</span></button>\n              </div>\n            </div>\n\n            <div class=\"workout-row\">\n              <div class=\"workout-meta\">\n                <span class=\"badge\">Intermediate</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">60 min</span>\n              </div>\n              <h3>Core &amp; Cardio</h3>\n              <div class=\"row-footer\">\n                <div class=\"row-footer-text\">Erledigt</div>\n                <button class=\"secondary-action\"><span class=\"secondary-action-text\">Ausw&#xE4;hlen</span></button>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </main>"
+    },
+    {
+      "id": "el-124",
+      "tag": "div",
+      "hash": "0623ee4e715722f24b800afb2a7a3d826062f54caa3ebf54e4b85933bb184b7b",
+      "html": "<div class=\"shell\" data-agent-id=\"el-124\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Hallo, Athlet</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">SIGNED IN</div>\n            <div class=\"meta-value\">athlet@beispiel.de</div>\n          </div>\n        </div>\n\n        <div class=\"navigation-row\">\n          <a href=\"overview.html\" class=\"nav-button\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button active\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button\">Profil</a>\n        </div>\n\n        <div class=\"plan-layout\">\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Trainingsplan</div>\n            <div class=\"section-title\">Deine Sessions</div>\n            <div class=\"section-text\">Tippe auf ein Workout, um es als erledigt zu markieren oder neu auszuw&#xE4;hlen.</div>\n            <div class=\"progress-track\">\n              <div class=\"progress-fill\" style=\"width: 33%;\"></div>\n            </div>\n            <div class=\"progress-text\">1 von 3 Workouts erledigt</div>\n          </div>\n\n          <div class=\"workout-list\">\n            <div class=\"workout-row\" style=\"transform: scale(1);\">\n              <div class=\"workout-meta\">\n                <span class=\"badge\">Beginner</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">45 min</span>\n              </div>\n              <h3>Lower Body Strength</h3>\n              <div class=\"row-footer\">\n                <div class=\"row-footer-text\">Bereit zum Start</div>\n                <button class=\"secondary-action\" style=\"background-color: #22c55e;\"><span class=\"secondary-action-text\" style=\"color: #052e16;\">Ausgew&#xE4;hlt</span></button>\n              </div>\n            </div>\n\n            <div class=\"workout-row\">\n              <div class=\"workout-meta\">\n                <span class=\"badge\">Intermediate</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">60 min</span>\n              </div>\n              <h3>Core &amp; Cardio</h3>\n              <div class=\"row-footer\">\n                <div class=\"row-footer-text\">Erledigt</div>\n                <button class=\"secondary-action\"><span class=\"secondary-action-text\">Ausw&#xE4;hlen</span></button>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>"
+    },
+    {
+      "id": "el-125",
+      "tag": "div",
+      "hash": "b3d4b6a8baa73e25172d213866b328032bb6a29eab53c730828ea9f73a504fe3",
+      "html": "<div class=\"navigation-row\" data-agent-id=\"el-125\">\n          <a href=\"overview.html\" class=\"nav-button\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button active\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button\">Profil</a>\n        </div>"
+    },
+    {
+      "id": "el-126",
+      "tag": "div",
+      "hash": "0a4b9801249744e70c3f73e30a1f5f6e95c112a4d4a5bfec15ff4030d7c88ef1",
+      "html": "<div class=\"plan-layout\" data-agent-id=\"el-126\">\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Trainingsplan</div>\n            <div class=\"section-title\">Deine Sessions</div>\n            <div class=\"section-text\">Tippe auf ein Workout, um es als erledigt zu markieren oder neu auszuw&#xE4;hlen.</div>\n            <div class=\"progress-track\">\n              <div class=\"progress-fill\" style=\"width: 33%;\"></div>\n            </div>\n            <div class=\"progress-text\">1 von 3 Workouts erledigt</div>\n          </div>\n\n          <div class=\"workout-list\">\n            <div class=\"workout-row\" style=\"transform: scale(1);\">\n              <div class=\"workout-meta\">\n                <span class=\"badge\">Beginner</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">45 min</span>\n              </div>\n              <h3>Lower Body Strength</h3>\n              <div class=\"row-footer\">\n                <div class=\"row-footer-text\">Bereit zum Start</div>\n                <button class=\"secondary-action\" style=\"background-color: #22c55e;\"><span class=\"secondary-action-text\" style=\"color: #052e16;\">Ausgew&#xE4;hlt</span></button>\n              </div>\n            </div>\n\n            <div class=\"workout-row\">\n              <div class=\"workout-meta\">\n                <span class=\"badge\">Intermediate</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">60 min</span>\n              </div>\n              <h3>Core &amp; Cardio</h3>\n              <div class=\"row-footer\">\n                <div class=\"row-footer-text\">Erledigt</div>\n                <button class=\"secondary-action\"><span class=\"secondary-action-text\">Ausw&#xE4;hlen</span></button>\n              </div>\n            </div>\n          </div>\n        </div>"
+    },
+    {
+      "id": "el-127",
+      "tag": "div",
+      "hash": "e3ddddc5153d237a903c039de3bdb469f98acb7cb36d3689fbfd239d929be6ad",
+      "html": "<div class=\"summary-card\" data-agent-id=\"el-127\">\n            <div class=\"section-label\">Trainingsplan</div>\n            <div class=\"section-title\">Deine Sessions</div>\n            <div class=\"section-text\">Tippe auf ein Workout, um es als erledigt zu markieren oder neu auszuw&#xE4;hlen.</div>\n            <div class=\"progress-track\">\n              <div class=\"progress-fill\" style=\"width: 33%;\"></div>\n            </div>\n            <div class=\"progress-text\">1 von 3 Workouts erledigt</div>\n          </div>"
+    },
+    {
+      "id": "el-128",
+      "tag": "div",
+      "hash": "5379a99f4814afc39dafaeec8525a06bf493ee8565918bfd78cd31b27ae5fcfc",
+      "html": "<div class=\"section-label\" data-agent-id=\"el-128\">Trainingsplan</div>"
+    },
+    {
+      "id": "el-129",
+      "tag": "div",
+      "hash": "3926f6241a73220ea23ab2a9f5032556866a5e3699f0b8507ee0aeb55f243f06",
+      "html": "<div class=\"section-title\" data-agent-id=\"el-129\">Deine Sessions</div>"
+    },
+    {
+      "id": "el-130",
+      "tag": "div",
+      "hash": "40fe049818d126c9d385460f53f4cae42a09ea0a9ece869dd1bdf8d0c0519cb1",
+      "html": "<div class=\"section-text\" data-agent-id=\"el-130\">Tippe auf ein Workout, um es als erledigt zu markieren oder neu auszuw&#xE4;hlen.</div>"
+    },
+    {
+      "id": "el-131",
+      "tag": "div",
+      "hash": "9e77e6eace04f0e43dd931cbaaa77d38fd21ea80bb5439797efd7a83e71bcf96",
+      "html": "<div class=\"progress-track\" data-agent-id=\"el-131\">\n              <div class=\"progress-fill\" style=\"width: 33%;\"></div>\n            </div>"
+    },
+    {
+      "id": "el-132",
+      "tag": "div",
+      "hash": "39b49530492a46bf7cd1543405a1ce00d4eb839dae59c1a1081b9e996d850a0f",
+      "html": "<div class=\"progress-text\" data-agent-id=\"el-132\">1 von 3 Workouts erledigt</div>"
+    },
+    {
+      "id": "el-133",
+      "tag": "div",
+      "hash": "648a33529cfdf840b0cf2e2ce22b5a2497d10de84e24798720557314e8c21a77",
+      "html": "<div class=\"workout-list\" data-agent-id=\"el-133\">\n            <div class=\"workout-row\" style=\"transform: scale(1);\">\n              <div class=\"workout-meta\">\n                <span class=\"badge\">Beginner</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">45 min</span>\n              </div>\n              <h3>Lower Body Strength</h3>\n              <div class=\"row-footer\">\n                <div class=\"row-footer-text\">Bereit zum Start</div>\n                <button class=\"secondary-action\" style=\"background-color: #22c55e;\"><span class=\"secondary-action-text\" style=\"color: #052e16;\">Ausgew&#xE4;hlt</span></button>\n              </div>\n            </div>\n\n            <div class=\"workout-row\">\n              <div class=\"workout-meta\">\n                <span class=\"badge\">Intermediate</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">60 min</span>\n              </div>\n              <h3>Core &amp; Cardio</h3>\n              <div class=\"row-footer\">\n                <div class=\"row-footer-text\">Erledigt</div>\n                <button class=\"secondary-action\"><span class=\"secondary-action-text\">Ausw&#xE4;hlen</span></button>\n              </div>\n            </div>\n          </div>"
+    },
+    {
+      "id": "el-134",
+      "tag": "div",
+      "hash": "c7fc8492b31eb58c828991972db33d56cc311eea32ca62e98052dd0e2f864347",
+      "html": "<div class=\"workout-row\" style=\"transform: scale(1);\" data-agent-id=\"el-134\">\n              <div class=\"workout-meta\">\n                <span class=\"badge\">Beginner</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">45 min</span>\n              </div>\n              <h3>Lower Body Strength</h3>\n              <div class=\"row-footer\">\n                <div class=\"row-footer-text\">Bereit zum Start</div>\n                <button class=\"secondary-action\" style=\"background-color: #22c55e;\"><span class=\"secondary-action-text\" style=\"color: #052e16;\">Ausgew&#xE4;hlt</span></button>\n              </div>\n            </div>"
+    },
+    {
+      "id": "el-135",
+      "tag": "div",
+      "hash": "b2dc9e363f761ee1c1b39c8579cbf50f7721397a22338334e9ef135373d46ab2",
+      "html": "<div class=\"workout-meta\" data-agent-id=\"el-135\">\n                <span class=\"badge\">Beginner</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">45 min</span>\n              </div>"
+    },
+    {
+      "id": "el-136",
+      "tag": "span",
+      "hash": "2943b292bba833e71141dad7d1d29d4c598746ea043a5060bd86440305921e22",
+      "html": "<span class=\"badge\" data-agent-id=\"el-136\">Beginner</span>"
+    },
+    {
+      "id": "el-137",
+      "tag": "span",
+      "hash": "f9442238a88e27df5d438effc86de980d74e107312939333f4f90583a4b3b250",
+      "html": "<span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\" data-agent-id=\"el-137\">45 min</span>"
+    },
+    {
+      "id": "el-138",
+      "tag": "h3",
+      "hash": "b6aa9a94e5e0b9017b88a381da0d0067d7a44d98335216bdac2d2639131ee7ef",
+      "html": "<h3 data-agent-id=\"el-138\">Lower Body Strength</h3>"
+    },
+    {
+      "id": "el-139",
+      "tag": "div",
+      "hash": "4ad0ca51fb9531e948d34a7bcf51f3e4c429cdc496c0dbb5fac7427551557c63",
+      "html": "<div class=\"row-footer\" data-agent-id=\"el-139\">\n                <div class=\"row-footer-text\">Bereit zum Start</div>\n                <button class=\"secondary-action\" style=\"background-color: #22c55e;\"><span class=\"secondary-action-text\" style=\"color: #052e16;\">Ausgew&#xE4;hlt</span></button>\n              </div>"
+    },
+    {
+      "id": "el-140",
+      "tag": "div",
+      "hash": "42d99f512c6d2adb1e139f9b7ca04cc471761ca78f467b03b23640baf475ceba",
+      "html": "<div class=\"row-footer-text\" data-agent-id=\"el-140\">Bereit zum Start</div>"
+    },
+    {
+      "id": "el-141",
+      "tag": "button",
+      "hash": "fbd731e0831f8edad9ac46e56eab9d64f553b6e39d41a76432c0ead8db2be87d",
+      "html": "<button class=\"secondary-action\" style=\"background-color: #22c55e;\" data-agent-id=\"el-141\"><span class=\"secondary-action-text\" style=\"color: #052e16;\">Ausgew&#xE4;hlt</span></button>"
+    },
+    {
+      "id": "el-142",
+      "tag": "span",
+      "hash": "acf6a77ca14042d3c9bdad196c46519e2f7938debcf9432d886f4bf338150424",
+      "html": "<span class=\"secondary-action-text\" style=\"color: #052e16;\" data-agent-id=\"el-142\">Ausgew&#xE4;hlt</span>"
+    },
+    {
+      "id": "el-143",
+      "tag": "div",
+      "hash": "259afadf4a2af08ffa612a2e00c66e95345dbc1d146c88a2306e1cb41370c251",
+      "html": "<div class=\"workout-row\" data-agent-id=\"el-143\">\n              <div class=\"workout-meta\">\n                <span class=\"badge\">Intermediate</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">60 min</span>\n              </div>\n              <h3>Core &amp; Cardio</h3>\n              <div class=\"row-footer\">\n                <div class=\"row-footer-text\">Erledigt</div>\n                <button class=\"secondary-action\"><span class=\"secondary-action-text\">Ausw&#xE4;hlen</span></button>\n              </div>\n            </div>"
+    },
+    {
+      "id": "el-144",
+      "tag": "div",
+      "hash": "af69c208059928b8403e512f5fef686e1fbea24316546b3526980d576e2ac7bd",
+      "html": "<div class=\"workout-meta\" data-agent-id=\"el-144\">\n                <span class=\"badge\">Intermediate</span>\n                <span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\">60 min</span>\n              </div>"
+    },
+    {
+      "id": "el-145",
+      "tag": "span",
+      "hash": "6be726efff20ac6565c67952442c72baecddfcb0b5e5eb000c97442334aa93a8",
+      "html": "<span class=\"badge\" data-agent-id=\"el-145\">Intermediate</span>"
+    },
+    {
+      "id": "el-146",
+      "tag": "span",
+      "hash": "a0e0b4fe09d7074558155a7a78e9fcd47b839c42efa0c8fdcb2ddfad65f90aaa",
+      "html": "<span class=\"badge\" style=\"margin-left: auto; background-color: rgba(34,197,94,0.1); color: #4ade80;\" data-agent-id=\"el-146\">60 min</span>"
+    },
+    {
+      "id": "el-147",
+      "tag": "h3",
+      "hash": "afd56d3578d18c531bfc0aac4a315e1885cd207a49158036fd1dbe16bda02ad3",
+      "html": "<h3 data-agent-id=\"el-147\">Core &amp; Cardio</h3>"
+    },
+    {
+      "id": "el-148",
+      "tag": "div",
+      "hash": "0655a6e2da42ddf1c2e3315b6753064981ff7160979243b5e501229a67c07325",
+      "html": "<div class=\"row-footer\" data-agent-id=\"el-148\">\n                <div class=\"row-footer-text\">Erledigt</div>\n                <button class=\"secondary-action\"><span class=\"secondary-action-text\">Ausw&#xE4;hlen</span></button>\n              </div>"
+    },
+    {
+      "id": "el-149",
+      "tag": "button",
+      "hash": "4aad08637995a3bfa68fabe5063b8915b77cdb59df0cb56d88f46b678f63f6de",
+      "html": "<button class=\"secondary-action\" data-agent-id=\"el-149\"><span class=\"secondary-action-text\">Ausw&#xE4;hlen</span></button>"
+    },
+    {
+      "id": "el-150",
+      "tag": "span",
+      "hash": "109b1150179207701d4cd283a57de3da18b31695e9563b2b6628d6467e685fc8",
+      "html": "<span class=\"secondary-action-text\" data-agent-id=\"el-150\">Ausw&#xE4;hlen</span>"
+    },
+    {
+      "id": "el-151",
+      "tag": "main",
+      "hash": "07f44501f40d05a624a1e8984f3dc3b6917ea8860aba46d39c2861dccc481869",
+      "html": "<main class=\"content\" data-agent-id=\"el-151\">\n      <div class=\"shell\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Hallo, Athlet</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">SIGNED IN</div>\n            <div class=\"meta-value\">athlet@beispiel.de</div>\n          </div>\n        </div>\n\n        <div class=\"navigation-row\">\n          <a href=\"overview.html\" class=\"nav-button\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button active\">Profil</a>\n        </div>\n\n        <div class=\"profile-layout\">\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Profil</div>\n            <div class=\"section-title\">Athlet</div>\n            <div class=\"section-text\">athlet@beispiel.de</div>\n            \n            <div class=\"field\" style=\"margin-top: 10px;\">\n              <label>Gespeicherte User</label>\n              <div class=\"section-text\">1</div>\n            </div>\n            \n            <a href=\"../auth/login.html\" class=\"secondary-action\" style=\"margin-top: 10px;\"><span class=\"secondary-action-text\">Abmelden</span></a>\n          </div>\n\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Konzept</div>\n            <div class=\"section-title\">Design First</div>\n            <div class=\"section-text\">Design-getriebener Entwicklungsansatz: vom visuellen Entwurf zur fertigen App.</div>\n          </div>\n        </div>\n      </div>\n    </main>"
+    },
+    {
+      "id": "el-152",
+      "tag": "div",
+      "hash": "ed01a5cee0580f517fb026363eb1fb5928616588ceba8dbe1c949367064bbd05",
+      "html": "<div class=\"shell\" data-agent-id=\"el-152\">\n        <div class=\"top-bar\">\n          <div>\n            <div class=\"brand\">Workout App</div>\n            <div class=\"title\">Hallo, Athlet</div>\n            <div class=\"subtitle\">Die App ist wieder funktional, sportlich und auf echte Nutzung ausgelegt.</div>\n          </div>\n          <div class=\"top-bar-meta\">\n            <div class=\"meta-label\">SIGNED IN</div>\n            <div class=\"meta-value\">athlet@beispiel.de</div>\n          </div>\n        </div>\n\n        <div class=\"navigation-row\">\n          <a href=\"overview.html\" class=\"nav-button\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button active\">Profil</a>\n        </div>\n\n        <div class=\"profile-layout\">\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Profil</div>\n            <div class=\"section-title\">Athlet</div>\n            <div class=\"section-text\">athlet@beispiel.de</div>\n            \n            <div class=\"field\" style=\"margin-top: 10px;\">\n              <label>Gespeicherte User</label>\n              <div class=\"section-text\">1</div>\n            </div>\n            \n            <a href=\"../auth/login.html\" class=\"secondary-action\" style=\"margin-top: 10px;\"><span class=\"secondary-action-text\">Abmelden</span></a>\n          </div>\n\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Konzept</div>\n            <div class=\"section-title\">Design First</div>\n            <div class=\"section-text\">Design-getriebener Entwicklungsansatz: vom visuellen Entwurf zur fertigen App.</div>\n          </div>\n        </div>\n      </div>"
+    },
+    {
+      "id": "el-153",
+      "tag": "div",
+      "hash": "f0fad7401608d126ed617997f97f308bb452788d206b0ae02cc5cd8e2f3a0db1",
+      "html": "<div class=\"navigation-row\" data-agent-id=\"el-153\">\n          <a href=\"overview.html\" class=\"nav-button\">Dashboard</a>\n          <a href=\"plan.html\" class=\"nav-button\">Plan</a>\n          <a href=\"health.html\" class=\"nav-button\">Health</a>\n          <a href=\"profile.html\" class=\"nav-button active\">Profil</a>\n        </div>"
+    },
+    {
+      "id": "el-154",
+      "tag": "div",
+      "hash": "e7b989b74224d51912f3cb8d92e020189fab1c1de54caa1247bd6b141be972a7",
+      "html": "<div class=\"profile-layout\" data-agent-id=\"el-154\">\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Profil</div>\n            <div class=\"section-title\">Athlet</div>\n            <div class=\"section-text\">athlet@beispiel.de</div>\n            \n            <div class=\"field\" style=\"margin-top: 10px;\">\n              <label>Gespeicherte User</label>\n              <div class=\"section-text\">1</div>\n            </div>\n            \n            <a href=\"../auth/login.html\" class=\"secondary-action\" style=\"margin-top: 10px;\"><span class=\"secondary-action-text\">Abmelden</span></a>\n          </div>\n\n          <div class=\"summary-card\">\n            <div class=\"section-label\">Konzept</div>\n            <div class=\"section-title\">Design First</div>\n            <div class=\"section-text\">Design-getriebener Entwicklungsansatz: vom visuellen Entwurf zur fertigen App.</div>\n          </div>\n        </div>"
+    },
+    {
+      "id": "el-155",
+      "tag": "div",
+      "hash": "267beb8227734a67c0595286df772d7cf29cf03be4871c33ef1835312921a217",
+      "html": "<div class=\"summary-card\" data-agent-id=\"el-155\">\n            <div class=\"section-label\">Profil</div>\n            <div class=\"section-title\">Athlet</div>\n            <div class=\"section-text\">athlet@beispiel.de</div>\n            \n            <div class=\"field\" style=\"margin-top: 10px;\">\n              <label>Gespeicherte User</label>\n              <div class=\"section-text\">1</div>\n            </div>\n            \n            <a href=\"../auth/login.html\" class=\"secondary-action\" style=\"margin-top: 10px;\"><span class=\"secondary-action-text\">Abmelden</span></a>\n          </div>"
+    },
+    {
+      "id": "el-156",
+      "tag": "div",
+      "hash": "6462a463e47d5af9c47ebe4e637be87bc7c2672ae2be6da39ac8c6b7ce3d2338",
+      "html": "<div class=\"section-label\" data-agent-id=\"el-156\">Profil</div>"
+    },
+    {
+      "id": "el-157",
+      "tag": "div",
+      "hash": "869f81bc7bc1e61150d762c6da4631eae7a0914024926e9e372b754c87a39eca",
+      "html": "<div class=\"section-title\" data-agent-id=\"el-157\">Athlet</div>"
+    },
+    {
+      "id": "el-158",
+      "tag": "div",
+      "hash": "bacd6ac2ede6454187c9afe8965901c02cdd184b2d77c35f49cc02313d16fe57",
+      "html": "<div class=\"field\" style=\"margin-top: 10px;\" data-agent-id=\"el-158\">\n              <label>Gespeicherte User</label>\n              <div class=\"section-text\">1</div>\n            </div>"
+    },
+    {
+      "id": "el-159",
+      "tag": "label",
+      "hash": "75d2d548689b4525c98f1bd7c0e77e8d865de858580081575264edc52eee5ec4",
+      "html": "<label data-agent-id=\"el-159\">Gespeicherte User</label>"
+    },
+    {
+      "id": "el-160",
+      "tag": "a",
+      "hash": "b1cf5df0aa0db8d03411f2556da98f7920f0e205c0bb242d3649721de17bd668",
+      "html": "<a href=\"../auth/login.html\" class=\"secondary-action\" style=\"margin-top: 10px;\" data-agent-id=\"el-160\"><span class=\"secondary-action-text\">Abmelden</span></a>"
+    },
+    {
+      "id": "el-161",
+      "tag": "span",
+      "hash": "56d57e10b60539261cabf30dca1d24add233db0d0ab08e2e880c09fab891e85a",
+      "html": "<span class=\"secondary-action-text\" data-agent-id=\"el-161\">Abmelden</span>"
+    },
+    {
+      "id": "el-162",
+      "tag": "div",
+      "hash": "1740c08d7b05e9ef528a4ec81113a187aaa20ceaa3322dd86dea1985194736bd",
+      "html": "<div class=\"summary-card\" data-agent-id=\"el-162\">\n            <div class=\"section-label\">Konzept</div>\n            <div class=\"section-title\">Design First</div>\n            <div class=\"section-text\">Design-getriebener Entwicklungsansatz: vom visuellen Entwurf zur fertigen App.</div>\n          </div>"
+    },
+    {
+      "id": "el-163",
+      "tag": "div",
+      "hash": "cbd118021a8ca10b74dae0c0f7b6fb23f870756f5b8ee30e1ada5fddd237817e",
+      "html": "<div class=\"section-label\" data-agent-id=\"el-163\">Konzept</div>"
+    },
+    {
+      "id": "el-164",
+      "tag": "div",
+      "hash": "7a37c7f354c0685b1aa1cfa26d0774b34695ddd30b6d1f657a47df8e63cd79a7",
+      "html": "<div class=\"section-title\" data-agent-id=\"el-164\">Design First</div>"
+    },
+    {
+      "id": "el-165",
+      "tag": "div",
+      "hash": "31fcca84a4c650575c83c1eb87d543d4f65256723208a8e2081bb020231c76f0",
+      "html": "<div class=\"section-text\" data-agent-id=\"el-165\">Design-getriebener Entwicklungsansatz: vom visuellen Entwurf zur fertigen App.</div>"
+    }
+  ]
+}
